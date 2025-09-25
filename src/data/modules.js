@@ -6313,8 +6313,8 @@ export default {"acute_myeloid_leukemia":{
       "codes": [
         {
           "system": "SNOMED-CT",
-          "code": 419199007,
-          "display": "Allergy to substance (finding)"
+          "code": "609328004",
+          "display": "Allergic disposition (finding)"
         }
       ],
       "reactions": [],
@@ -11852,8 +11852,8 @@ export default {"acute_myeloid_leukemia":{
       "codes": [
         {
           "system": "SNOMED-CT",
-          "code": 69031006,
-          "display": "Excision of breast tissue (procedure)"
+          "code": "392023007",
+          "display": "Excision of lesion of breast (procedure)"
         }
       ],
       "duration": {
@@ -13158,8 +13158,8 @@ export default {"acute_myeloid_leukemia":{
       ],
       "value_code": {
         "system": "SNOMED-CT",
-        "code": 55440008,
-        "display": "M1 category (finding)"
+        "code": "1229903009",
+        "display": "American Joint Committee on Cancer cM1 (qualifier value)"
       },
       "direct_transition": "Distant Breast Cancer"
     },
@@ -13176,8 +13176,8 @@ export default {"acute_myeloid_leukemia":{
       ],
       "value_code": {
         "system": "SNOMED-CT",
-        "code": 30893008,
-        "display": "M0 category (finding)"
+        "code": "1229901006",
+        "display": "American Joint Committee on Cancer cM0 (qualifier value)"
       },
       "distributed_transition": [
         {
@@ -13208,8 +13208,8 @@ export default {"acute_myeloid_leukemia":{
       "direct_transition": "N Marker",
       "value_code": {
         "system": "SNOMED-CT",
-        "code": 58790005,
-        "display": "T0 category (finding)"
+        "code": "1228882005",
+        "display": "American Joint Committee on Cancer cT0 (qualifier value)"
       }
     },
     "T1_Diagnosed": {
@@ -13225,8 +13225,8 @@ export default {"acute_myeloid_leukemia":{
       ],
       "value_code": {
         "system": "SNOMED-CT",
-        "code": 23351008,
-        "display": "T1 category (finding)"
+        "code": "1228889001",
+        "display": "American Joint Committee on Cancer cT1 (qualifier value)"
       },
       "direct_transition": "N Marker"
     },
@@ -13243,8 +13243,8 @@ export default {"acute_myeloid_leukemia":{
       ],
       "value_code": {
         "system": "SNOMED-CT",
-        "code": 67673008,
-        "display": "T2 category (finding)"
+        "code": "1228929004",
+        "display": "American Joint Committee on Cancer cT2 (qualifier value)"
       },
       "direct_transition": "N Marker"
     },
@@ -13261,8 +13261,8 @@ export default {"acute_myeloid_leukemia":{
       ],
       "value_code": {
         "system": "SNOMED-CT",
-        "code": 14410001,
-        "display": "T3 category (finding)"
+        "code": "1228938002",
+        "display": "American Joint Committee on Cancer cT3 (qualifier value)"
       },
       "direct_transition": "N Marker",
       "remarks": [
@@ -13282,8 +13282,8 @@ export default {"acute_myeloid_leukemia":{
       ],
       "value_code": {
         "system": "SNOMED-CT",
-        "code": 65565005,
-        "display": "T4 category (finding)"
+        "code": "1228944003",
+        "display": "American Joint Committee on Cancer cT4 (qualifier value)"
       },
       "direct_transition": "N Marker"
     },
@@ -13301,8 +13301,8 @@ export default {"acute_myeloid_leukemia":{
       "direct_transition": "Terminal",
       "value_code": {
         "system": "SNOMED-CT",
-        "code": 53623008,
-        "display": "N1 category (finding)"
+        "code": "1229973008",
+        "display": "American Joint Committee on Cancer cN1 (qualifier value)"
       }
     },
     "N0_Diagnosed": {
@@ -13318,8 +13318,8 @@ export default {"acute_myeloid_leukemia":{
       ],
       "value_code": {
         "system": "SNOMED-CT",
-        "code": 62455006,
-        "display": "N0 category (finding)"
+        "code": "1229967007",
+        "display": "American Joint Committee on Cancer cN0 (qualifier value)"
       },
       "direct_transition": "Terminal"
     },
@@ -13336,8 +13336,8 @@ export default {"acute_myeloid_leukemia":{
       ],
       "value_code": {
         "system": "SNOMED-CT",
-        "code": 46059003,
-        "display": "N2 category (finding)"
+        "code": "1229978004",
+        "display": "American Joint Committee on Cancer cN2 (qualifier value)"
       },
       "direct_transition": "Terminal"
     },
@@ -13354,8 +13354,8 @@ export default {"acute_myeloid_leukemia":{
       ],
       "value_code": {
         "system": "SNOMED-CT",
-        "code": 5856006,
-        "display": "N3 category (finding)"
+        "code": "1229984001",
+        "display": "American Joint Committee on Cancer cN3 (qualifier value)"
       },
       "direct_transition": "Terminal"
     },
@@ -14198,8 +14198,8 @@ export default {"acute_myeloid_leukemia":{
       "direct_transition": "Stage III",
       "value_code": {
         "system": "SNOMED-CT",
-        "code": 261639007,
-        "display": "Stage 3B (qualifier value)"
+        "code": "1222805004",
+        "display": "American Joint Committee on Cancer stage IIIB (qualifier value)"
       }
     },
     "IIIA": {
@@ -14349,8 +14349,8 @@ export default {"acute_myeloid_leukemia":{
       ],
       "value_code": {
         "system": "SNOMED-CT",
-        "code": 261640009,
-        "display": "Stage 3C (qualifier value)"
+        "code": "1222806003",
+        "display": "American Joint Committee on Cancer stage IIIC (qualifier value)"
       },
       "direct_transition": "Stage III"
     },
@@ -14367,8 +14367,8 @@ export default {"acute_myeloid_leukemia":{
       ],
       "value_code": {
         "system": "SNOMED-CT",
-        "code": 261615002,
-        "display": "Stage 2B (qualifier value)"
+        "code": "1222769001",
+        "display": "American Joint Committee on Cancer stage IIB (qualifier value)"
       },
       "direct_transition": "Stage II"
     },
@@ -14385,8 +14385,8 @@ export default {"acute_myeloid_leukemia":{
       ],
       "value_code": {
         "system": "SNOMED-CT",
-        "code": 261614003,
-        "display": "Stage 2A (qualifier value)"
+        "code": "1222766008",
+        "display": "American Joint Committee on Cancer stage IIA (qualifier value)"
       },
       "direct_transition": "Stage II"
     },
@@ -14403,8 +14403,8 @@ export default {"acute_myeloid_leukemia":{
       ],
       "value_code": {
         "system": "SNOMED-CT",
-        "code": 261634002,
-        "display": "Stage 1A (qualifier value)"
+        "code": "1222724007",
+        "display": "American Joint Committee on Cancer stage IA (qualifier value)"
       },
       "direct_transition": "Stage I"
     },
@@ -14421,8 +14421,8 @@ export default {"acute_myeloid_leukemia":{
       ],
       "value_code": {
         "system": "SNOMED-CT",
-        "code": 261635001,
-        "display": "Stage 1B (qualifier value)"
+        "code": "1222728005",
+        "display": "American Joint Committee on Cancer stage IB (qualifier value)"
       },
       "direct_transition": "Stage I"
     },
@@ -14567,8 +14567,8 @@ export default {"acute_myeloid_leukemia":{
             "operator": "!=",
             "value_code": {
               "system": "SNOMED-CT",
-              "code": 261635001,
-              "display": "Stage 1B (qualifier value)"
+              "code": "1222728005",
+              "display": "American Joint Committee on Cancer stage IB (qualifier value)"
             }
           }
         },
@@ -16377,8 +16377,8 @@ export default {"acute_myeloid_leukemia":{
       "codes": [
         {
           "system": "SNOMED-CT",
-          "code": 234817001,
-          "display": "Insertion of oral appliance for the handicapped (procedure)"
+          "code": "1259900009",
+          "display": "Fitting of intraoral appliance (procedure)"
         }
       ],
       "duration": {
@@ -19718,8 +19718,8 @@ export default {"acute_myeloid_leukemia":{
       "codes": [
         {
           "system": "SNOMED-CT",
-          "code": "387607004",
-          "display": "Construction of diverting colostomy"
+          "code": "9905009",
+          "display": "Loop colostomy (procedure)"
         }
       ],
       "direct_transition": "Pain_Vital_2",
@@ -21474,8 +21474,8 @@ export default {"acute_myeloid_leukemia":{
       ],
       "value_code": {
         "system": "SNOMED-CT",
-        "code": 19283009,
-        "display": "Rales (finding)"
+        "code": "48409008",
+        "display": "Respiratory crackles (finding)"
       },
       "direct_transition": "Initial Lab Work"
     },
@@ -37713,8 +37713,8 @@ export default {"acute_myeloid_leukemia":{
       "codes": [
         {
           "system": "SNOMED-CT",
-          "code": "316744009",
-          "display": "Office Visit"
+          "code": "281036007",
+          "display": "Follow-up consultation (procedure)"
         }
       ],
       "direct_transition": "ModeratelySevere_MMSE_Score"
@@ -37859,8 +37859,8 @@ export default {"acute_myeloid_leukemia":{
       "codes": [
         {
           "system": "SNOMED-CT",
-          "code": "316744009",
-          "display": "Office Visit"
+          "code": "281036007",
+          "display": "Follow-up consultation (procedure)"
         }
       ],
       "direct_transition": "Severe_MMSE_Score"
@@ -37910,8 +37910,8 @@ export default {"acute_myeloid_leukemia":{
       "codes": [
         {
           "system": "SNOMED-CT",
-          "code": "316744009",
-          "display": "Office Visit"
+          "code": "281036007",
+          "display": "Follow-up consultation (procedure)"
         }
       ],
       "direct_transition": "VerySevere_MMSE_Score"
@@ -38437,6 +38437,11 @@ export default {"acute_myeloid_leukemia":{
           "system": "SNOMED-CT",
           "code": 456191000124101,
           "display": "Postoperative care for dental procedure (regime/therapy)"
+        },
+        {
+          "system": "SNOMED-CT",
+          "code": "133899007",
+          "display": "Postoperative care (regime/therapy)"
         }
       ],
       "distribution": {
@@ -38740,6 +38745,11 @@ export default {"acute_myeloid_leukemia":{
           "system": "SNOMED-CT",
           "code": 456191000124101,
           "display": "Postoperative care for dental procedure (regime/therapy)"
+        },
+        {
+          "system": "SNOMED-CT",
+          "code": "133899007",
+          "display": "Postoperative care (regime/therapy)"
         }
       ],
       "distribution": {
@@ -39047,6 +39057,11 @@ export default {"acute_myeloid_leukemia":{
           "system": "SNOMED-CT",
           "code": 456191000124101,
           "display": "Postoperative care for dental procedure (regime/therapy)"
+        },
+        {
+          "system": "SNOMED-CT",
+          "code": "133899007",
+          "display": "Postoperative care (regime/therapy)"
         }
       ],
       "distribution": {
@@ -39680,6 +39695,11 @@ export default {"acute_myeloid_leukemia":{
           "system": "SNOMED-CT",
           "code": 456191000124101,
           "display": "Postoperative care for dental procedure (regime/therapy)"
+        },
+        {
+          "system": "SNOMED-CT",
+          "code": "133899007",
+          "display": "Postoperative care (regime/therapy)"
         }
       ],
       "distribution": {
@@ -41084,6 +41104,679 @@ export default {"acute_myeloid_leukemia":{
     }
   },
   "gmf_version": 1
+}
+,
+"diabetic_retinopathy_treatment":{
+  "name": "Diabetic Retinopathy Treatment",
+  "remarks": [
+    "The Diabetic Retinopathy Treatment top-level module represents the ophthalmic treatment cycle a patient with diabetes will go through after diagnosis. This module starts with a Guard state that allows only patients with an active diagnosis diabetes, then two possible paths prior to their first encounter: some patients follow recommended practices and will seek an ophthalmologist for screening right away after the diabetes diagnosis, some patients will wait until there are significant symptoms. Once a patient is in the treatment cycle, they will continue to have encounters based on the recommended follow-up schedule for their disease status.",
+    "",
+    "At the start of each encounter, the OphthalmicProgression submodule is called to align various attributes with the patient’s current disease status, so that those attributes can be read at the subsequent examination states. Then the patient will have basic exams performed:",
+    " - visual acuity (via the Visual Acuity submodule),",
+    " - intraocular pressure (via the Intraocular Pressure submodule),",
+    " - slit-lamp,",
+    " - dilation,",
+    " - gonioscopy, and",
+    " - fundoscopy.",
+    "",
+    "If the patient has previously been diagnosed with diabetic retinopathy, an OCT will be performed (via the Ophthalmic Tomography submodule). Further diagnoses will be made in the Diabetic Retinopathy Diagnoses submodule. Treatments will be considered based on the AAO PPP: panretinal laser, grid laser, and anti-VEGF injections. Finally, the OphthalmicNote submodule is called to create an unstructured note based on the observations and procedures from this encounter.",
+    "",
+    "These modules and submodules are intended to reflect the most common diagnoses and treatment options associated with diabetic retinopathy, not necessarily every possible complication and comorbidity. Treatment plans represented in the module are primarily based on the American Academy of Ophthalmology® (AAO) Diabetic Retinopathy Preferred Practice Pattern® (PPP), 2019 edition[1].",
+    "",
+    "",
+    "Thanks to Brig. Gen. James Dienst for assisting with the initial module structure, and Dr. Aaron Lee and Dr. Emily Chew for their time in reviewing this module. (No endorsement of this module by Dr. Lee or Dr. Chew is implied)",
+    "",
+    "",
+    "1: C. J. Flaxel et al., “Diabetic retinopathy preferred practice pattern®,” Ophthalmology, vol. 127, no. 1, Sep. 2019. doi:10.1016/j.ophtha.2019.09.025"
+  ],
+  "states": {
+    "Initial": {
+      "type": "Initial",
+      "direct_transition": "Guard_for_Diabetes_Diagnosis"
+    },
+    "Guard_for_Diabetes_Diagnosis": {
+      "type": "Guard",
+      "allow": {
+        "condition_type": "Active Condition",
+        "codes": [
+          {
+            "system": "SNOMED-CT",
+            "code": 44054006,
+            "display": "Diabetes mellitus type 2 (disorder)"
+          }
+        ]
+      },
+      "distributed_transition": [
+        {
+          "transition": "Delay_before_first_encounter",
+          "distribution": 0.75
+        },
+        {
+          "transition": "Guard_for_Vision_Impact",
+          "distribution": 0.25
+        }
+      ]
+    },
+    "Delay_before_first_encounter": {
+      "type": "Delay",
+      "distribution": {
+        "kind": "UNIFORM",
+        "parameters": {
+          "high": 5,
+          "low": 1
+        }
+      },
+      "unit": "weeks",
+      "direct_transition": "Initial_Ophthalmic_Encounter"
+    },
+    "Check_Visual_Acuity": {
+      "type": "CallSubmodule",
+      "submodule": "eye/visual_acuity",
+      "direct_transition": "Check_IOP"
+    },
+    "Slit-lamp biomicroscopy": {
+      "type": "Procedure",
+      "codes": [
+        {
+          "system": "SNOMED-CT",
+          "code": 55468007,
+          "display": "Ocular slit lamp examination (procedure)"
+        }
+      ],
+      "distribution": {
+        "kind": "EXACT",
+        "parameters": {
+          "value": 2
+        }
+      },
+      "unit": "minutes",
+      "direct_transition": "Dilation",
+      "reason": "diabetes_stage"
+    },
+    "Check_IOP": {
+      "type": "CallSubmodule",
+      "submodule": "eye/intraocular_pressure",
+      "direct_transition": "Slit-lamp biomicroscopy"
+    },
+    "Patient history": {
+      "type": "Procedure",
+      "codes": [
+        {
+          "system": "SNOMED-CT",
+          "code": 84100007,
+          "display": "History taking (procedure)"
+        }
+      ],
+      "distribution": {
+        "kind": "EXACT",
+        "parameters": {
+          "value": 5
+        }
+      },
+      "unit": "minutes",
+      "direct_transition": "Progress_DR_Vitals",
+      "reason": "diabetes_stage"
+    },
+    "Gonioscopy": {
+      "type": "Procedure",
+      "codes": [
+        {
+          "system": "SNOMED-CT",
+          "code": 389153003,
+          "display": "Indirect gonioscopy (procedure)"
+        }
+      ],
+      "distribution": {
+        "kind": "EXACT",
+        "parameters": {
+          "value": 10
+        }
+      },
+      "unit": "minutes",
+      "direct_transition": "Fundoscopy",
+      "reason": "diabetes_stage"
+    },
+    "Examination of the peripheral retina and vitreous": {
+      "type": "Procedure",
+      "codes": [
+        {
+          "system": "SNOMED-CT",
+          "code": 722161008,
+          "display": "Diabetic retinal eye exam (procedure)"
+        }
+      ],
+      "distribution": {
+        "kind": "UNIFORM",
+        "parameters": {
+          "high": 5,
+          "low": 2
+        }
+      },
+      "unit": "minutes",
+      "direct_transition": "Consider_OCT",
+      "reason": "diabetes_stage"
+    },
+    "Consider_Panretinal_Laser": {
+      "type": "Simple",
+      "complex_transition": [
+        {
+          "condition": {
+            "condition_type": "PriorState",
+            "name": "Panretinal Laser"
+          },
+          "distributions": [],
+          "transition": "Consider_Grid_Laser"
+        },
+        {
+          "condition": {
+            "condition_type": "Attribute",
+            "attribute": "diabetic_retinopathy_stage",
+            "operator": "==",
+            "value": 4
+          },
+          "distributions": [
+            {
+              "distribution": 0.85,
+              "transition": "Numbing_Drops_Panretinal_Laser"
+            },
+            {
+              "transition": "Consider_Grid_Laser",
+              "distribution": 0.15
+            }
+          ]
+        },
+        {
+          "condition": {
+            "condition_type": "Attribute",
+            "attribute": "diabetic_retinopathy_stage",
+            "operator": "==",
+            "value": 3
+          },
+          "distributions": [
+            {
+              "distribution": 0.25,
+              "transition": "Numbing_Drops_Panretinal_Laser"
+            },
+            {
+              "transition": "Consider_Grid_Laser",
+              "distribution": 0.75
+            }
+          ]
+        },
+        {
+          "distributions": [],
+          "transition": "Consider_Grid_Laser"
+        }
+      ]
+    },
+    "Consider_Grid_Laser": {
+      "type": "Simple",
+      "complex_transition": [
+        {
+          "condition": {
+            "condition_type": "PriorState",
+            "name": "Grid_Laser",
+            "within": {
+              "quantity": 1,
+              "unit": "years"
+            }
+          },
+          "distributions": [],
+          "transition": "Consider_AntiVEGF_Therapy"
+        },
+        {
+          "condition": {
+            "condition_type": "Attribute",
+            "attribute": "macular_edema",
+            "operator": "==",
+            "value": true
+          },
+          "distributions": [
+            {
+              "distribution": 0.2,
+              "transition": "Numbing_Drops_Grid_Laser"
+            },
+            {
+              "transition": "Consider_AntiVEGF_Therapy",
+              "distribution": 0.8
+            }
+          ]
+        },
+        {
+          "distributions": [],
+          "transition": "Consider_AntiVEGF_Therapy"
+        }
+      ]
+    },
+    "Consider_AntiVEGF_Therapy": {
+      "type": "Simple",
+      "complex_transition": [
+        {
+          "condition": {
+            "condition_type": "Attribute",
+            "attribute": "diabetic_retinopathy_stage",
+            "operator": "==",
+            "value": 4
+          },
+          "distributions": [],
+          "transition": "Numbing_Drops_AntiVEGF_Injection"
+        },
+        {
+          "condition": {
+            "condition_type": "And",
+            "conditions": [
+              {
+                "condition_type": "Attribute",
+                "attribute": "diabetic_retinopathy_stage",
+                "operator": ">=",
+                "value": 2
+              },
+              {
+                "condition_type": "Attribute",
+                "attribute": "macular_edema",
+                "operator": "==",
+                "value": true
+              }
+            ]
+          },
+          "distributions": [
+            {
+              "distribution": 0.85,
+              "transition": "Numbing_Drops_AntiVEGF_Injection"
+            },
+            {
+              "transition": "End_Encounter",
+              "distribution": 0.15
+            }
+          ]
+        },
+        {
+          "distributions": [],
+          "transition": "End_Encounter"
+        }
+      ]
+    },
+    "Schedule_Followup": {
+      "type": "Simple",
+      "lookup_table_transition": {
+        "transitions": [
+          {
+            "transition": "Followup_2-4Months",
+            "default_probability": 0,
+            "lookup_table_name": "diabetic_retinopathy_followup.csv"
+          },
+          {
+            "transition": "Followup_3-6Months",
+            "default_probability": 0,
+            "lookup_table_name": "diabetic_retinopathy_followup.csv"
+          },
+          {
+            "transition": "Followup_6-12Months",
+            "default_probability": 0,
+            "lookup_table_name": "diabetic_retinopathy_followup.csv"
+          },
+          {
+            "transition": "Followup_Yearly",
+            "default_probability": 1,
+            "lookup_table_name": "diabetic_retinopathy_followup.csv"
+          },
+          {
+            "transition": "Followup_Monthly",
+            "default_probability": 0,
+            "lookup_table_name": "diabetic_retinopathy_followup.csv"
+          }
+        ],
+        "viewTable": false,
+        "lookup_table_name_ModuleBuilder": "diabetic_retinopathy_followup.csv",
+        "lookuptable": "﻿diabetic_retinopathy_stage,macular_edema,Followup_Yearly,Followup_6-12Months,Followup_3-6Months,Followup_2-4Months,Followup_Monthly\r\n0,false,1,0,0,0,0\r\n0,true,1,0,0,0,0\r\n1,false,1,0,0,0,0\r\n1,true,0,0,1,0,0\r\n2,false,0,1,0,0,0\r\n2,true,0,0,1,0,0\r\n3,false,0,0,1,0,0\r\n3,true,0,0,0,1,0\r\n4,false,0,0,0,1,0\r\n4,true,0,0,0,0,1"
+      }
+    },
+    "Followup_Yearly": {
+      "type": "Delay",
+      "distribution": {
+        "kind": "UNIFORM",
+        "parameters": {
+          "high": 13,
+          "low": 11
+        }
+      },
+      "unit": "months",
+      "direct_transition": "Subsequent_Ophthalmic_Encounters"
+    },
+    "Followup_Monthly": {
+      "type": "Delay",
+      "distribution": {
+        "kind": "EXACT",
+        "parameters": {
+          "value": 1
+        }
+      },
+      "unit": "months",
+      "direct_transition": "Subsequent_Ophthalmic_Encounters"
+    },
+    "Followup_6-12Months": {
+      "type": "Delay",
+      "distribution": {
+        "kind": "UNIFORM",
+        "parameters": {
+          "high": 12,
+          "low": 6
+        }
+      },
+      "unit": "months",
+      "direct_transition": "Subsequent_Ophthalmic_Encounters"
+    },
+    "Followup_3-6Months": {
+      "type": "Delay",
+      "distribution": {
+        "kind": "UNIFORM",
+        "parameters": {
+          "high": 6,
+          "low": 3
+        }
+      },
+      "unit": "months",
+      "direct_transition": "Subsequent_Ophthalmic_Encounters"
+    },
+    "Followup_2-4Months": {
+      "type": "Delay",
+      "distribution": {
+        "kind": "UNIFORM",
+        "parameters": {
+          "high": 4,
+          "low": 2
+        }
+      },
+      "unit": "months",
+      "direct_transition": "Subsequent_Ophthalmic_Encounters"
+    },
+    "Make_Diagnoses": {
+      "type": "CallSubmodule",
+      "submodule": "metabolic_syndrome/diabetic_retinopathy_diagnoses",
+      "direct_transition": "Consider_Panretinal_Laser"
+    },
+    "Consider_OCT": {
+      "type": "Simple",
+      "conditional_transition": [
+        {
+          "transition": "OCT",
+          "condition": {
+            "condition_type": "Or",
+            "conditions": [
+              {
+                "condition_type": "Active Condition",
+                "codes": [
+                  {
+                    "system": "SNOMED-CT",
+                    "code": 1551000119108,
+                    "display": "Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder)"
+                  }
+                ]
+              },
+              {
+                "condition_type": "Active Condition",
+                "codes": [
+                  {
+                    "system": "SNOMED-CT",
+                    "code": 1501000119109,
+                    "display": "Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder)"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "transition": "Make_Diagnoses"
+        }
+      ]
+    },
+    "OCT": {
+      "type": "CallSubmodule",
+      "submodule": "eye/ophthalmic_tomography",
+      "direct_transition": "Make_Diagnoses"
+    },
+    "End_Encounter": {
+      "type": "EncounterEnd",
+      "direct_transition": "Schedule_Followup"
+    },
+    "Panretinal Laser": {
+      "type": "Procedure",
+      "codes": [
+        {
+          "system": "SNOMED-CT",
+          "code": 413180006,
+          "display": "Pan retinal photocoagulation for diabetes (procedure)"
+        }
+      ],
+      "distribution": {
+        "kind": "UNIFORM",
+        "parameters": {
+          "high": 60,
+          "low": 30
+        }
+      },
+      "unit": "minutes",
+      "direct_transition": "End_Encounter",
+      "reason": "diabetic_retinopathy_condition"
+    },
+    "Grid_Laser": {
+      "type": "Procedure",
+      "codes": [
+        {
+          "system": "SNOMED-CT",
+          "code": 397539000,
+          "display": "Grid retinal photocoagulation (procedure)"
+        }
+      ],
+      "distribution": {
+        "kind": "UNIFORM",
+        "parameters": {
+          "high": 60,
+          "low": 30
+        }
+      },
+      "unit": "minutes",
+      "direct_transition": "End_Encounter",
+      "reason": "macular_edema_condition"
+    },
+    "Progress_DR_Vitals": {
+      "type": "CallSubmodule",
+      "submodule": "eye/ophthalmic_progression",
+      "direct_transition": "Check_Visual_Acuity"
+    },
+    "AntiVEGF_Therapy_Med": {
+      "type": "MedicationOrder",
+      "codes": [
+        {
+          "system": "RxNorm",
+          "code": 1657066,
+          "display": "4 ML bevacizumab 25 MG/ML Injection"
+        }
+      ],
+      "direct_transition": "AntiVEGF_Therapy_Procedure",
+      "administration": true
+    },
+    "AntiVEGF_Therapy_Procedure": {
+      "type": "Procedure",
+      "codes": [
+        {
+          "system": "SNOMED-CT",
+          "code": 1004045004,
+          "display": "Intravitreal injection of anti-vascular endothelial growth factor (procedure)"
+        }
+      ],
+      "distribution": {
+        "kind": "UNIFORM",
+        "parameters": {
+          "high": 10,
+          "low": 5
+        }
+      },
+      "unit": "minutes",
+      "direct_transition": "End_Encounter",
+      "reason": "diabetic_retinopathy_condition"
+    },
+    "Numbing_Drops_Panretinal_Laser": {
+      "type": "MedicationOrder",
+      "codes": [
+        {
+          "system": "RxNorm",
+          "code": 1191013,
+          "display": "proparacaine hydrochloride 5 MG/ML Ophthalmic Solution"
+        }
+      ],
+      "direct_transition": "End_Drops_Panretinal",
+      "administration": true
+    },
+    "Numbing_Drops_Grid_Laser": {
+      "type": "MedicationOrder",
+      "codes": [
+        {
+          "system": "RxNorm",
+          "code": 1191013,
+          "display": "proparacaine hydrochloride 5 MG/ML Ophthalmic Solution"
+        }
+      ],
+      "direct_transition": "End_Drops_Grid",
+      "administration": true
+    },
+    "Numbing_Drops_AntiVEGF_Injection": {
+      "type": "MedicationOrder",
+      "codes": [
+        {
+          "system": "RxNorm",
+          "code": 1191013,
+          "display": "proparacaine hydrochloride 5 MG/ML Ophthalmic Solution"
+        }
+      ],
+      "direct_transition": "End_Drops_AntiVEGF",
+      "administration": true
+    },
+    "Dilation": {
+      "type": "MedicationOrder",
+      "codes": [
+        {
+          "system": "RxNorm",
+          "code": 313521,
+          "display": "tropicamide 5 MG/ML Ophthalmic Solution"
+        }
+      ],
+      "direct_transition": "End_Dilation_Med",
+      "administration": true
+    },
+    "Guard_for_Vision_Impact": {
+      "type": "Guard",
+      "allow": {
+        "condition_type": "Attribute",
+        "attribute": "diabetic_retinopathy_stage",
+        "operator": "==",
+        "value": 3
+      },
+      "direct_transition": "Initial_Ophthalmic_Encounter",
+      "remarks": [
+        "Intended to represent patients who don't seek treatment until there are significant vision impacts"
+      ]
+    },
+    "Fundoscopy": {
+      "type": "ImagingStudy",
+      "procedure_code": {
+        "system": "SNOMED-CT",
+        "code": 314971001,
+        "display": "Camera fundoscopy (procedure)"
+      },
+      "series": [
+        {
+          "body_site": {
+            "system": "SNOMED-CT",
+            "code": 181171005,
+            "display": "Entire retina (body structure)"
+          },
+          "modality": {
+            "system": "DICOM-DCM",
+            "code": "OP",
+            "display": "Ophthalmic Photography"
+          },
+          "instances": [
+            {
+              "title": "OS",
+              "sop_class": {
+                "system": "DICOM-SOP",
+                "code": "1.2.840.10008.5.1.4.1.1.77.1.5.1",
+                "display": "Ophthalmic Photography 8 Bit Image Storage"
+              }
+            },
+            {
+              "title": "OD",
+              "sop_class": {
+                "system": "DICOM-SOP",
+                "code": "1.2.840.10008.5.1.4.1.1.77.1.5.1",
+                "display": "Ophthalmic Photography 8 Bit Image Storage"
+              }
+            }
+          ]
+        }
+      ],
+      "direct_transition": "Examination of the peripheral retina and vitreous",
+      "remarks": [
+        "DICOM notes: https://www.dicomstandard.org/News-dir/ftsup/docs/sups/sup91.pdf"
+      ]
+    },
+    "Initial_Ophthalmic_Encounter": {
+      "type": "Encounter",
+      "encounter_class": "ambulatory",
+      "reason": "diabetes_stage",
+      "telemedicine_possibility": "none",
+      "codes": [
+        {
+          "system": "SNOMED-CT",
+          "code": "36228007",
+          "display": "Ophthalmic examination and evaluation (procedure)"
+        },
+        {
+          "system": "SNOMED-CT",
+          "code": "185387006",
+          "display": "New patient consultation (procedure)"
+        }
+      ],
+      "direct_transition": "Patient history"
+    },
+    "Subsequent_Ophthalmic_Encounters": {
+      "type": "Encounter",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "telemedicine_possibility": "none",
+      "codes": [
+        {
+          "system": "SNOMED-CT",
+          "code": "36228007",
+          "display": "Ophthalmic examination and evaluation (procedure)"
+        }
+      ],
+      "direct_transition": "Progress_DR_Vitals"
+    },
+    "End_Drops_Panretinal": {
+      "type": "MedicationEnd",
+      "direct_transition": "Panretinal Laser",
+      "medication_order": "Numbing_Drops_Panretinal_Laser"
+    },
+    "End_Drops_AntiVEGF": {
+      "type": "MedicationEnd",
+      "direct_transition": "AntiVEGF_Therapy_Med",
+      "medication_order": "Numbing_Drops_AntiVEGF_Injection"
+    },
+    "End_Drops_Grid": {
+      "type": "MedicationEnd",
+      "direct_transition": "Grid_Laser",
+      "medication_order": "Numbing_Drops_Grid_Laser"
+    },
+    "End_Dilation_Med": {
+      "type": "MedicationEnd",
+      "direct_transition": "Gonioscopy",
+      "medication_order": "Dilation"
+    }
+  },
+  "gmf_version": 2
 }
 ,
 "dialysis":{
@@ -48403,6 +49096,709 @@ export default {"acute_myeloid_leukemia":{
     }
   },
   "gmf_version": 1
+}
+,
+"eye/intraocular_pressure":{
+  "name": "Intraocular Pressure",
+  "remarks": [
+    "Submodule for IOP procedure and findings."
+  ],
+  "states": {
+    "Initial": {
+      "type": "Initial",
+      "direct_transition": "IOP_Test"
+    },
+    "Terminal": {
+      "type": "Terminal"
+    },
+    "IOP_Test": {
+      "type": "Procedure",
+      "codes": [
+        {
+          "system": "SNOMED-CT",
+          "code": "252832004",
+          "display": "Intraocular pressure test (procedure)"
+        }
+      ],
+      "distribution": {
+        "kind": "EXACT",
+        "parameters": {
+          "value": 1
+        }
+      },
+      "unit": "minutes",
+      "direct_transition": "IOP_Results_Left"
+    },
+    "Timolol": {
+      "type": "MedicationOrder",
+      "codes": [
+        {
+          "system": "RxNorm",
+          "code": 1923432,
+          "display": "dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution"
+        }
+      ],
+      "direct_transition": "Terminal",
+      "assign_to_attribute": "eye_pressure_med"
+    },
+    "Brimonidine": {
+      "type": "MedicationOrder",
+      "codes": [
+        {
+          "system": "RxNorm",
+          "code": 861204,
+          "display": "brimonidine tartrate 1 MG/ML Ophthalmic Solution"
+        }
+      ],
+      "direct_transition": "Terminal",
+      "assign_to_attribute": "eye_pressure_med"
+    },
+    "High IOP Meds": {
+      "type": "Simple",
+      "complex_transition": [
+        {
+          "condition": {
+            "condition_type": "Attribute",
+            "attribute": "intraocular_pressure",
+            "operator": ">",
+            "value": 21
+          },
+          "distributions": [
+            {
+              "transition": "Timolol",
+              "distribution": 0.5
+            },
+            {
+              "transition": "Brimonidine",
+              "distribution": 0.5
+            }
+          ]
+        },
+        {
+          "distributions": [],
+          "transition": "Terminal"
+        }
+      ]
+    },
+    "IOP_Results_Left": {
+      "type": "Observation",
+      "category": "vital-signs",
+      "unit": "mm[Hg]",
+      "codes": [
+        {
+          "system": "LOINC",
+          "code": "79893-4",
+          "display": "Left eye Intraocular pressure"
+        },
+        {
+          "system": "SNOMED-CT",
+          "code": "41633001",
+          "display": "Intraocular pressure (observable entity)"
+        }
+      ],
+      "direct_transition": "IOP_Results_Right",
+      "remarks": [
+        "Note code 2 is actually SNOMED"
+      ],
+      "attribute": "intraocular_pressure"
+    },
+    "IOP_Results_Right": {
+      "type": "Observation",
+      "category": "vital-signs",
+      "unit": "mm[Hg]",
+      "codes": [
+        {
+          "system": "LOINC",
+          "code": "79892-6",
+          "display": "Right eye Intraocular pressure"
+        },
+        {
+          "system": "SNOMED-CT",
+          "code": "41633001",
+          "display": "Intraocular pressure (observable entity)"
+        }
+      ],
+      "direct_transition": "High IOP Meds",
+      "remarks": [
+        "Note code 1 is actually SNOMED"
+      ],
+      "attribute": "intraocular_pressure"
+    }
+  },
+  "gmf_version": 2
+}
+,
+"eye/ophthalmic_progression":{
+  "name": "ophthalmic_progression",
+  "states": {
+    "Initial": {
+      "type": "Initial",
+      "direct_transition": "Check_Stage"
+    },
+    "Terminal": {
+      "type": "Terminal"
+    },
+    "Set_VA_High": {
+      "type": "SetAttribute",
+      "attribute": "visual_acuity_logmar",
+      "direct_transition": "Check_IOP",
+      "value": 0
+    },
+    "Set_VA_Low": {
+      "type": "SetAttribute",
+      "attribute": "visual_acuity_logmar",
+      "direct_transition": "Check_IOP",
+      "value": 0.3
+    },
+    "Check_Edema_for_VA": {
+      "type": "Simple",
+      "conditional_transition": [
+        {
+          "transition": "Set_VA_Low",
+          "condition": {
+            "condition_type": "Attribute",
+            "attribute": "macular_edema",
+            "operator": "==",
+            "value": true
+          }
+        },
+        {
+          "transition": "Set_VA_High"
+        }
+      ]
+    },
+    "Check_IOP": {
+      "type": "Simple",
+      "complex_transition": [
+        {
+          "condition": {
+            "condition_type": "Attribute",
+            "attribute": "high_iop",
+            "operator": "==",
+            "value": true
+          },
+          "distributions": [
+            {
+              "transition": "Set_High_IOP_Flag",
+              "distribution": 1
+            }
+          ]
+        },
+        {
+          "condition": {
+            "condition_type": "Attribute",
+            "attribute": "diabetic_retinopathy_stage",
+            "operator": "==",
+            "value": 4
+          },
+          "distributions": [
+            {
+              "distribution": 0.001,
+              "transition": "Set_High_IOP_Flag"
+            },
+            {
+              "transition": "Set_IOP_Normal_Range",
+              "distribution": 0.9990000000000001
+            }
+          ]
+        },
+        {
+          "distributions": [
+            {
+              "distribution": 1,
+              "transition": "Set_IOP_Normal_Range"
+            }
+          ]
+        }
+      ]
+    },
+    "Set_High_IOP_Flag": {
+      "type": "SetAttribute",
+      "attribute": "high_iop",
+      "value": true,
+      "conditional_transition": [
+        {
+          "transition": "Set_IOP_High_Reduced",
+          "condition": {
+            "condition_type": "Active Medication",
+            "codes": [
+              {
+                "system": "RxNorm",
+                "code": 1923432,
+                "display": "dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution"
+              },
+              {
+                "system": "RxNorm",
+                "code": 861204,
+                "display": "brimonidine tartrate 1 MG/ML Ophthalmic Solution"
+              }
+            ]
+          }
+        },
+        {
+          "transition": "Set_IOP_High_Range"
+        }
+      ]
+    },
+    "Set_IOP_Normal_Range": {
+      "type": "SetAttribute",
+      "attribute": "intraocular_pressure",
+      "direct_transition": "Set_Findings_Right",
+      "distribution": {
+        "kind": "UNIFORM",
+        "round": true,
+        "parameters": {
+          "high": 18,
+          "low": 14
+        }
+      }
+    },
+    "Set_IOP_High_Range": {
+      "type": "SetAttribute",
+      "attribute": "intraocular_pressure",
+      "direct_transition": "Set_Findings_Right",
+      "distribution": {
+        "kind": "UNIFORM",
+        "round": true,
+        "parameters": {
+          "high": 24,
+          "low": 18
+        }
+      }
+    },
+    "Set_IOP_High_Reduced": {
+      "type": "SetAttribute",
+      "attribute": "intraocular_pressure",
+      "direct_transition": "Set_Findings_Right",
+      "distribution": {
+        "kind": "UNIFORM",
+        "round": false,
+        "parameters": {
+          "high": 18,
+          "low": 15
+        }
+      }
+    },
+    "Set_Findings_Left": {
+      "type": "SetAttribute",
+      "attribute": "oct_findings_left",
+      "direct_transition": "Set_oct_center_point_thickness",
+      "value_code": {
+        "system": "LOINC",
+        "code": "LA28409-8",
+        "display": "No abnormal findings"
+      }
+    },
+    "Set_Findings_Right": {
+      "type": "SetAttribute",
+      "attribute": "oct_findings_right",
+      "direct_transition": "Set_Findings_Left",
+      "value_code": {
+        "system": "LOINC",
+        "code": "LA28409-8",
+        "display": "No abnormal findings"
+      }
+    },
+    "Check_Stage": {
+      "type": "Simple",
+      "conditional_transition": [
+        {
+          "transition": "Set_Stage_Code_0",
+          "condition": {
+            "condition_type": "Attribute",
+            "attribute": "diabetic_retinopathy_stage",
+            "operator": "==",
+            "value": 0
+          }
+        },
+        {
+          "transition": "Set_Stage_Code_1",
+          "condition": {
+            "condition_type": "Attribute",
+            "attribute": "diabetic_retinopathy_stage",
+            "operator": "==",
+            "value": 1
+          }
+        },
+        {
+          "transition": "Set_Stage_Code_2",
+          "condition": {
+            "condition_type": "Attribute",
+            "attribute": "diabetic_retinopathy_stage",
+            "operator": "==",
+            "value": 2
+          }
+        },
+        {
+          "transition": "Set_Stage_Code_3",
+          "condition": {
+            "condition_type": "Attribute",
+            "attribute": "diabetic_retinopathy_stage",
+            "operator": "==",
+            "value": 3
+          }
+        },
+        {
+          "transition": "Set_Stage_Code_4",
+          "condition": {
+            "condition_type": "Attribute",
+            "attribute": "diabetic_retinopathy_stage",
+            "operator": "==",
+            "value": 4
+          }
+        }
+      ],
+      "remarks": [
+        "https://loinc.org/LL2117-1"
+      ]
+    },
+    "Set_Stage_Code_0": {
+      "type": "SetAttribute",
+      "attribute": "diabetic_retinopathy_stage_code",
+      "value_code": {
+        "system": "LOINC",
+        "code": "LA18643-9",
+        "display": "No apparent retinopathy"
+      },
+      "direct_transition": "Check_Edema_for_VA"
+    },
+    "Set_Stage_Code_1": {
+      "type": "SetAttribute",
+      "attribute": "diabetic_retinopathy_stage_code",
+      "value_code": {
+        "system": "LOINC",
+        "code": "LA18644-7",
+        "display": "Mild non-proliferative retinopathy"
+      },
+      "direct_transition": "Check_Edema_for_VA"
+    },
+    "Set_Stage_Code_2": {
+      "type": "SetAttribute",
+      "attribute": "diabetic_retinopathy_stage_code",
+      "value_code": {
+        "system": "LOINC",
+        "code": "LA18645-4",
+        "display": "Moderate non-proliferative retinopathy"
+      },
+      "direct_transition": "Check_Edema_for_VA"
+    },
+    "Set_Stage_Code_3": {
+      "type": "SetAttribute",
+      "attribute": "diabetic_retinopathy_stage_code",
+      "value_code": {
+        "system": "LOINC",
+        "code": "LA18646-2",
+        "display": "Severe non-proliferative retinopathy"
+      },
+      "direct_transition": "Check_Edema_for_VA"
+    },
+    "Set_Stage_Code_4": {
+      "type": "SetAttribute",
+      "attribute": "diabetic_retinopathy_stage_code",
+      "value_code": {
+        "system": "LOINC",
+        "code": "LA18648-8",
+        "display": "Proliferative retinopathy"
+      },
+      "direct_transition": "Check_Edema_for_VA"
+    },
+    "Set_oct_center_point_thickness": {
+      "type": "SetAttribute",
+      "attribute": "oct_center_point_thickness",
+      "direct_transition": "Set_oct_center_subfield_thickness",
+      "value": "227"
+    },
+    "Set_oct_center_subfield_thickness": {
+      "type": "SetAttribute",
+      "attribute": "oct_center_subfield_thickness",
+      "direct_transition": "Set_oct_inner_superior_subfield_thickness",
+      "value": "270"
+    },
+    "Set_oct_inner_superior_subfield_thickness": {
+      "type": "SetAttribute",
+      "attribute": "oct_inner_superior_subfield_thickness",
+      "direct_transition": "Set_oct_inner_nasal_subfield_thickness",
+      "value": "335"
+    },
+    "Set_oct_inner_nasal_subfield_thickness": {
+      "type": "SetAttribute",
+      "attribute": "oct_inner_nasal_subfield_thickness",
+      "direct_transition": "Set_oct_inner_inferior_subfield_thickness",
+      "value": "338"
+    },
+    "Set_oct_inner_inferior_subfield_thickness": {
+      "type": "SetAttribute",
+      "attribute": "oct_inner_inferior_subfield_thickness",
+      "direct_transition": "Set_oct_inner_temporal_subfield_thickness",
+      "value": "332"
+    },
+    "Set_oct_inner_temporal_subfield_thickness": {
+      "type": "SetAttribute",
+      "attribute": "oct_inner_temporal_subfield_thickness",
+      "direct_transition": "Set_oct_outer_superior_subfield_thickness",
+      "value": "324"
+    },
+    "Set_oct_outer_superior_subfield_thickness": {
+      "type": "SetAttribute",
+      "attribute": "oct_outer_superior_subfield_thickness",
+      "direct_transition": "Set_oct_outer_nasal_subfield_thickness",
+      "value": "290"
+    },
+    "Set_oct_outer_nasal_subfield_thickness": {
+      "type": "SetAttribute",
+      "attribute": "oct_outer_nasal_subfield_thickness",
+      "direct_transition": "Set_oct_outer_inferior_subfield_thickness",
+      "value": "305"
+    },
+    "Set_oct_outer_inferior_subfield_thickness": {
+      "type": "SetAttribute",
+      "attribute": "oct_outer_inferior_subfield_thickness",
+      "direct_transition": "Set_oct_outer_temporal_subfield_thickness",
+      "value": "280"
+    },
+    "Set_oct_outer_temporal_subfield_thickness": {
+      "type": "SetAttribute",
+      "attribute": "oct_outer_temporal_subfield_thickness",
+      "direct_transition": "Set_oct_total_volume",
+      "value": "279"
+    },
+    "Set_oct_total_volume": {
+      "type": "SetAttribute",
+      "attribute": "oct_total_volume",
+      "direct_transition": "Terminal",
+      "value": "8.4"
+    }
+  },
+  "gmf_version": 2,
+  "remarks": [
+    "A simple module to represent a few aspects of the progression of diabetic retinopathy. On the original \"diabetic_retinopathy\" branch this was implemented as a Java submodule which allows for additional power, but is opaque to the module builder and most users. The main difference is in the OCT quantitative measurements; in the original an individual had a single randomized offset which was applied to every value, here the values are fixed.",
+    "",
+    "Stage Codes are from https://loinc.org/LL2117-1",
+    "",
+    "Visual Acuity modeled in LogMAR",
+    "some examples (ref: https://en.wikipedia.org/wiki/LogMAR_chart)",
+    "Foot LogMAR",
+    "20/200 1.00",
+    "20/160 0.90",
+    "20/100 0.70",
+    "20/80 0.60",
+    "20/40 0.30",
+    "20/20 0.00",
+    "20/16 −0.10",
+    "",
+    "IOP:",
+    "\"Pressures of between 11 and 21 mmHg are considered normal\"",
+    "https://www.ncbi.nlm.nih.gov/books/NBK532237/",
+    "https://www.mdpi.com/2077-0383/13/3/676",
+    "",
+    "OCT measurements:",
+    "https://iovs.arvojournals.org/article.aspx?articleid=2165526",
+    "another source (not used) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1941772/"
+  ]
+}
+,
+"eye/ophthalmic_tomography":{
+  "name": "ophthalmic_tomography",
+  "remarks": [
+    "Submodule containing OCT imaging study and qualitative findings.",
+    "Quantitative findings are possible, but generally not present in real-world EHRs."
+  ],
+  "states": {
+    "Initial": {
+      "type": "Initial",
+      "direct_transition": "OCT_Imaging"
+    },
+    "Terminal": {
+      "type": "Terminal"
+    },
+    "OCT_Imaging": {
+      "type": "ImagingStudy",
+      "procedure_code": {
+        "system": "SNOMED-CT",
+        "code": "700070005",
+        "display": "Optical coherence tomography of retina (procedure)"
+      },
+      "series": [
+        {
+          "body_site": {
+            "system": "SNOMED-CT",
+            "code": "181171005",
+            "display": "Entire retina (body structure)"
+          },
+          "modality": {
+            "system": "DICOM-DCM",
+            "code": "OPT",
+            "display": "Ophthalmic Tomography"
+          },
+          "instances": [
+            {
+              "title": "OS",
+              "sop_class": {
+                "system": "DICOM-SOP",
+                "code": "1.2.840.10008.5.1.4.1.1.77.1.5.4",
+                "display": "Ophthalmic Tomography Image"
+              }
+            },
+            {
+              "title": "OD",
+              "sop_class": {
+                "system": "DICOM-SOP",
+                "code": "1.2.840.10008.5.1.4.1.1.77.1.5.4",
+                "display": "Ophthalmic Tomography Image"
+              }
+            }
+          ]
+        }
+      ],
+      "direct_transition": "Qualitative_Report",
+      "remarks": [
+        "Body site \"entire retina\" has child codes for left/right eye; sibling codes for other parts",
+        "",
+        "DICOM notes: https://www.dicomstandard.org/News-dir/ftsup/docs/sups/sup110.pdf"
+      ]
+    },
+    "Qualitative_Report": {
+      "type": "DiagnosticReport",
+      "codes": [
+        {
+          "system": "LOINC",
+          "code": "87674-8",
+          "display": "Optical coherence tomography study"
+        }
+      ],
+      "observations": [
+        {
+          "category": "imaging",
+          "unit": "{nominal}",
+          "codes": [
+            {
+              "system": "LOINC",
+              "code": "79819-9",
+              "display": "Study observation Left retina by OCT"
+            }
+          ],
+          "attribute": "oct_findings_left"
+        },
+        {
+          "category": "imaging",
+          "unit": "{nominal}",
+          "codes": [
+            {
+              "system": "LOINC",
+              "code": "79818-1",
+              "display": "Study observation Right retina by OCT"
+            }
+          ],
+          "attribute": "oct_findings_right"
+        }
+      ],
+      "direct_transition": "Terminal",
+      "remarks": [
+        "Note different codes for Left/Right",
+        "Answer list at https://loinc.org/79818-1/"
+      ]
+    }
+  },
+  "gmf_version": 2
+}
+,
+"eye/visual_acuity":{
+  "name": "Visual Acuity",
+  "remarks": [
+    "Simple visual acuity tests. Tests are skipped if the patient is blind.",
+    "",
+    "Codes are selected based on the \"Eyes on FHIR\" IG:",
+    "https://build.fhir.org/ig/HL7/fhir-eyecare-ig/index.html"
+  ],
+  "states": {
+    "Initial": {
+      "type": "Initial",
+      "conditional_transition": [
+        {
+          "transition": "Terminal",
+          "condition": {
+            "condition_type": "Attribute",
+            "attribute": "blindness",
+            "operator": "==",
+            "value": true
+          }
+        },
+        {
+          "transition": "VA_Test"
+        }
+      ]
+    },
+    "Terminal": {
+      "type": "Terminal"
+    },
+    "VA_Test": {
+      "type": "Procedure",
+      "codes": [
+        {
+          "system": "SNOMED-CT",
+          "code": 16830007,
+          "display": "Visual acuity testing (procedure)"
+        }
+      ],
+      "distribution": {
+        "kind": "EXACT",
+        "parameters": {
+          "value": 1
+        }
+      },
+      "unit": "minutes",
+      "direct_transition": "VA_Results_Left"
+    },
+    "VA_Results_Left": {
+      "type": "Observation",
+      "category": "exam",
+      "unit": "{logmar}",
+      "codes": [
+        {
+          "system": "SNOMED-CT",
+          "code": 413077008,
+          "display": "LogMAR visual acuity left eye (observable entity)"
+        },
+        {
+          "system": "LOINC",
+          "code": "98498-9",
+          "display": "Visual acuity uncorrected Left eye"
+        }
+      ],
+      "direct_transition": "VA_Results_Right",
+      "remarks": [
+        "Note code 1 is SNOMED per eyes-on-fhir IG",
+        "",
+        "LOINC has options for left/right, corrrected/uncorrected, near/far: https://loinc.org/98497-1/"
+      ],
+      "attribute": "visual_acuity_logmar"
+    },
+    "VA_Results_Right": {
+      "type": "Observation",
+      "category": "exam",
+      "unit": "{logmar}",
+      "codes": [
+        {
+          "system": "SNOMED-CT",
+          "code": 413078003,
+          "display": "LogMAR visual acuity right eye (observable entity)"
+        },
+        {
+          "system": "LOINC",
+          "code": "98499-7",
+          "display": "Visual acuity uncorrected Right eye"
+        }
+      ],
+      "direct_transition": "Terminal",
+      "remarks": [
+        "Note code 1 is SNOMED per eyes-on-fhir IG",
+        "",
+        "LOINC has options for left/right, corrrected/uncorrected, near/far: https://loinc.org/98497-1/"
+      ],
+      "attribute": "visual_acuity_logmar"
+    }
+  },
+  "gmf_version": 2
 }
 ,
 "female_reproduction":{
@@ -67584,8 +68980,8 @@ export default {"acute_myeloid_leukemia":{
       "direct_transition": "Terminal",
       "value_code": {
         "system": "SNOMED-CT",
-        "code": 261051005,
-        "display": "Aortic (qualifier value)"
+        "code": "261146002",
+        "display": "Para-aortic (qualifier value)"
       }
     },
     "Subclavian": {
@@ -74953,8 +76349,8 @@ export default {"acute_myeloid_leukemia":{
       "codes": [
         {
           "system": "SNOMED-CT",
-          "code": 409066002,
-          "display": "Education, guidance and counseling (procedure)"
+          "code": "410314003",
+          "display": "Health promotion education, guidance, and counseling (procedure)"
         }
       ],
       "distribution": {
@@ -81420,7 +82816,6 @@ export default {"acute_myeloid_leukemia":{
     "2014 evidence-based guideline for the management of high blood pressure in adults: report from the panel members appointed to the Eighth Joint National Committee (JNC 8). ",
     "Canadian Hypertension Guidelines",
     "",
-    "",
     "The following model assumptions apply: ",
     "HTN Definitions: Our model definition of HTN is >= 140/90 for all populations, given general agreement of this threshold for pharmacotherapy across most clinical guidelines. Our model threshold for use of pharmacotherapy is SBP >= 140. We define control as SBP < 140. All individuals do NOT achieve control consistent with epidemiological studies. We acknowledge that HTN may be defined using a lower blood pressure (see ACC/AHA) and that lower pharmacotherapy thresholds and targets may be used for populations with certain comorbid conditions, cardiovascular risk, and/or of a certain age. This model does not reflect all primary HTN care pathways, as individual decision making that accounts for benefits, harms, treatment burden and other factors is a critical part of hypertension management. ",
     " ",
@@ -81441,172 +82836,13 @@ export default {"acute_myeloid_leukemia":{
       "remarks": [
         "Initial impl == direct translation of ruby module"
       ],
-      "direct_transition": "Age_Guard"
-    },
-    "Age_Guard": {
-      "type": "Guard",
-      "allow": {
-        "condition_type": "Age",
-        "operator": ">=",
-        "quantity": 18,
-        "unit": "years",
-        "value": 0
-      },
-      "direct_transition": "Hypertension_Screening_Reason"
-    },
-    "Set_Yearly_Risk": {
-      "type": "Simple",
-      "remarks": [
-        "By age 55 years, cumulative incidence of hypertension was 75.5% in black men, 75.7% in black women, 54.5% in white men, and 40.0% in white women -- https://www.ahajournals.org/doi/full/10.1161/JAHA.117.007988",
-        "",
-        "",
-        "Cumulative Incidence  = 1 - e(-IR x D)",
-        "e^(-IRxD) = 1 - CI",
-        "-IR x D = ln(1-CI)",
-        "IR = -ln(1-CI)/D",
-        "",
-        "Assuming 0% at age 18, and per the chart the increase is roughly linear, use the following yearly incidence rates:",
-        "",
-        "",
-        "black men - 3.8%",
-        "black women - 3.8%",
-        "white men - 2.1%",
-        "white women - 1.4%",
-        "others - 2.5% (just a value in the middle, no source)"
-      ],
-      "conditional_transition": [
-        {
-          "transition": "Black",
-          "condition": {
-            "condition_type": "Race",
-            "race": "Black"
-          }
-        },
-        {
-          "transition": "White",
-          "condition": {
-            "condition_type": "Race",
-            "race": "White"
-          }
-        },
-        {
-          "transition": "Others"
-        }
-      ]
-    },
-    "Chance_of_Hypertension": {
-      "type": "Simple",
-      "complex_transition": [
-        {
-          "condition": {
-            "condition_type": "Attribute",
-            "attribute": "hypertension",
-            "operator": "==",
-            "value": true
-          },
-          "distributions": [
-            {
-              "transition": "Wellness_Encounter",
-              "distribution": 1
-            }
-          ]
-        },
-        {
-          "distributions": [
-            {
-              "transition": "Onset_Hypertension",
-              "distribution": {
-                "attribute": "risk_of_hypertension",
-                "default": 0.05
-              }
-            },
-            {
-              "transition": "Wait_till_next_year",
-              "distribution": 0.95
-            }
-          ]
-        }
-      ],
-      "remarks": [
-        "Use the risk set above, but also check if some other module may have set hypertension == true"
-      ]
-    },
-    "Wait_till_next_year": {
-      "type": "Delay",
-      "distribution": {
-        "kind": "EXACT",
-        "parameters": {
-          "value": 1
-        }
-      },
-      "unit": "years",
-      "direct_transition": "Chance_of_Hypertension"
+      "direct_transition": "Assign Hypertension Base Probability"
     },
     "Onset_Hypertension": {
       "type": "SetAttribute",
       "attribute": "hypertension",
       "value": true,
-      "direct_transition": "Wellness_Encounter"
-    },
-    "Black": {
-      "type": "Simple",
-      "conditional_transition": [
-        {
-          "transition": "Black_Female",
-          "condition": {
-            "condition_type": "Gender",
-            "gender": "F"
-          }
-        },
-        {
-          "transition": "Black_Male"
-        }
-      ]
-    },
-    "White": {
-      "type": "Simple",
-      "conditional_transition": [
-        {
-          "transition": "White_Female",
-          "condition": {
-            "condition_type": "Gender",
-            "gender": "F"
-          }
-        },
-        {
-          "transition": "White_Male"
-        }
-      ]
-    },
-    "Others": {
-      "type": "SetAttribute",
-      "attribute": "risk_of_hypertension",
-      "direct_transition": "Chance_of_Hypertension",
-      "value": 0.025
-    },
-    "Black_Female": {
-      "type": "SetAttribute",
-      "attribute": "risk_of_hypertension",
-      "direct_transition": "Chance_of_Hypertension",
-      "value": 0.038
-    },
-    "Black_Male": {
-      "type": "SetAttribute",
-      "attribute": "risk_of_hypertension",
-      "direct_transition": "Chance_of_Hypertension",
-      "value": 0.038
-    },
-    "White_Male": {
-      "type": "SetAttribute",
-      "attribute": "risk_of_hypertension",
-      "direct_transition": "Chance_of_Hypertension",
-      "value": 0.021
-    },
-    "White_Female": {
-      "type": "SetAttribute",
-      "attribute": "risk_of_hypertension",
-      "direct_transition": "Chance_of_Hypertension",
-      "value": 0.014
+      "direct_transition": "Check for Exclusions"
     },
     "Diagnose_Hypertension": {
       "type": "ConditionOnset",
@@ -81810,96 +83046,9 @@ export default {"acute_myeloid_leukemia":{
     },
     "Wellness_Encounter": {
       "type": "Encounter",
-      "conditional_transition": [
-        {
-          "transition": "Excluded",
-          "condition": {
-            "condition_type": "Or",
-            "conditions": [
-              {
-                "condition_type": "Age",
-                "operator": "<",
-                "quantity": 18,
-                "unit": "years",
-                "value": 0
-              },
-              {
-                "condition_type": "Or",
-                "conditions": [
-                  {
-                    "condition_type": "Attribute",
-                    "attribute": "ckd",
-                    "operator": ">",
-                    "value": 3
-                  },
-                  {
-                    "condition_type": "Or",
-                    "conditions": [
-                      {
-                        "condition_type": "Attribute",
-                        "attribute": "pregnant",
-                        "operator": "==",
-                        "value": true
-                      },
-                      {
-                        "condition_type": "Or",
-                        "conditions": [
-                          {
-                            "condition_type": "Attribute",
-                            "attribute": "coronary_heart_disease",
-                            "operator": "==",
-                            "value": true
-                          },
-                          {
-                            "condition_type": "Or",
-                            "conditions": [
-                              {
-                                "condition_type": "Or",
-                                "conditions": [
-                                  {
-                                    "condition_type": "Active Condition",
-                                    "codes": [
-                                      {
-                                        "system": "SNOMED-CT",
-                                        "code": "22298006",
-                                        "display": "Myocardial infarction (disorder)"
-                                      }
-                                    ]
-                                  },
-                                  {
-                                    "condition_type": "Active Condition",
-                                    "codes": [
-                                      {
-                                        "system": "SNOMED-CT",
-                                        "code": "399211009",
-                                        "display": "History of myocardial infarction (situation)"
-                                      }
-                                    ]
-                                  }
-                                ]
-                              },
-                              {
-                                "condition_type": "Attribute",
-                                "attribute": "chf",
-                                "operator": "is not nil"
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "transition": "Included"
-        }
-      ],
       "wellness": true,
-      "reason": "hypertension_screening_reason"
+      "reason": "hypertension_screening_reason",
+      "direct_transition": "Diagnose_Hypertension"
     },
     "End_Wellness_Encounter": {
       "type": "EncounterEnd",
@@ -81918,7 +83067,7 @@ export default {"acute_myeloid_leukemia":{
             },
             {
               "transition": "Delay_One_Month",
-              "distribution": 0.6579999999999999
+              "distribution": 0.658
             }
           ]
         },
@@ -81971,7 +83120,7 @@ export default {"acute_myeloid_leukemia":{
               "transition": "Drop Outs"
             },
             {
-              "distribution": 0.6779999999999999,
+              "distribution": 0.678,
               "transition": "Hypertension_Followup_Encounter"
             }
           ]
@@ -81989,7 +83138,7 @@ export default {"acute_myeloid_leukemia":{
               "transition": "Drop Outs"
             },
             {
-              "distribution": 0.7330000000000001,
+              "distribution": 0.733,
               "transition": "Hypertension_Followup_Encounter"
             }
           ]
@@ -82205,7 +83354,7 @@ export default {"acute_myeloid_leukemia":{
             },
             {
               "transition": "Hypertension_Followup_Encounter_2",
-              "distribution": 0.6779999999999999
+              "distribution": 0.678
             }
           ]
         }
@@ -82237,10 +83386,6 @@ export default {"acute_myeloid_leukemia":{
       "value": true,
       "direct_transition": "Delay_2_Month_2"
     },
-    "Excluded": {
-      "type": "Simple",
-      "direct_transition": "Wait Until Next Checkup"
-    },
     "Prescribe_Medication_3": {
       "type": "CallSubmodule",
       "submodule": "medications/hypertension_medication",
@@ -82259,13 +83404,197 @@ export default {"acute_myeloid_leukemia":{
     "Terminal": {
       "type": "Terminal"
     },
-    "Included": {
+    "Drop Outs": {
+      "type": "Simple",
+      "direct_transition": "Terminal"
+    },
+    "Check for Hypertension": {
+      "type": "Simple",
+      "distributed_transition": [
+        {
+          "transition": "Eventual Hypertension",
+          "distribution": {
+            "attribute": "p_hypertension",
+            "default": 0.454
+          }
+        },
+        {
+          "transition": "Unlikely Onset",
+          "distribution": 0.546
+        }
+      ]
+    },
+    "Hypertension_Screening_Reason": {
+      "type": "SetAttribute",
+      "attribute": "hypertension_screening_reason",
+      "direct_transition": "Wellness_Encounter",
+      "value_code": {
+        "system": "SNOMED-CT",
+        "code": "171222001",
+        "display": "Hypertension screening (procedure)"
+      }
+    },
+    "White": {
       "type": "Simple",
       "conditional_transition": [
         {
-          "transition": "Diagnose_Hypertension",
+          "transition": "White Male",
           "condition": {
-            "condition_type": "And",
+            "condition_type": "Gender",
+            "gender": "M"
+          }
+        },
+        {
+          "transition": "White Female"
+        }
+      ]
+    },
+    "Black": {
+      "type": "SetAttribute",
+      "attribute": "p_hypertension",
+      "direct_transition": "Check for Hypertension",
+      "value": 0.571
+    },
+    "All Others": {
+      "type": "SetAttribute",
+      "attribute": "p_hypertension",
+      "direct_transition": "Check for Hypertension",
+      "value": 0.454
+    },
+    "White Male": {
+      "type": "SetAttribute",
+      "attribute": "p_hypertension",
+      "direct_transition": "Check for Hypertension",
+      "value": 0.51
+    },
+    "White Female": {
+      "type": "SetAttribute",
+      "attribute": "p_hypertension",
+      "direct_transition": "Check for Hypertension",
+      "value": 0.397
+    },
+    "Assign Hypertension Base Probability": {
+      "type": "Simple",
+      "conditional_transition": [
+        {
+          "transition": "White",
+          "condition": {
+            "condition_type": "Race",
+            "race": "White"
+          }
+        },
+        {
+          "transition": "Black",
+          "condition": {
+            "condition_type": "Race",
+            "race": "Black"
+          }
+        },
+        {
+          "transition": "All Others"
+        }
+      ],
+      "remarks": [
+        "Probabilities draw from:",
+        "Ostchega Y, Fryar CD, Nwankwo T, Nguyen DT. Hypertension prevalence among adults aged 18 and over: United States, 2017–2018. NCHS Data Brief, no 364. Hyattsville, MD: National Center for Health Statistics. 2020.",
+        "",
+        "In survey period 2017–2018, the prevalence of age-adjusted hypertension was 45.4% among adults and was higher among men (51.0%) than women (39.7%).",
+        "",
+        "Hypertension prevalence was higher among non-Hispanic black (57.1%) than non-Hispanic white (43.6%) or Hispanic (43.7%) adults."
+      ]
+    },
+    "Eventual Hypertension": {
+      "type": "Simple",
+      "conditional_transition": [
+        {
+          "transition": "White Onset Age",
+          "condition": {
+            "condition_type": "Race",
+            "race": "White"
+          }
+        },
+        {
+          "transition": "Black Onset Age",
+          "condition": {
+            "condition_type": "Race",
+            "race": "Black"
+          }
+        },
+        {
+          "transition": "All Others Onset Age"
+        }
+      ],
+      "remarks": [
+        "Distributions drawn from Table 2 of:",
+        "Huang X, Lee K, Wang MC, Shah NS, Khan SS. Age at Diagnosis of Hypertension by Race and Ethnicity in the US From 2011 to 2020. JAMA Cardiol. 2022;7(9):986–987. doi:10.1001/jamacardio.2022.2345"
+      ]
+    },
+    "Wait for Hypertension Onset": {
+      "type": "Delay",
+      "distribution": {
+        "kind": "EXACT",
+        "parameters": {
+          "value": 1
+        }
+      },
+      "unit": "years",
+      "direct_transition": "Decrement_Years"
+    },
+    "Black Onset Age": {
+      "type": "SetAttribute",
+      "attribute": "years_until_hypertension_onset",
+      "direct_transition": "Check Result",
+      "distribution": {
+        "kind": "GAUSSIAN",
+        "round": true,
+        "parameters": {
+          "mean": 42,
+          "standardDeviation": 14
+        }
+      }
+    },
+    "White Onset Age": {
+      "type": "SetAttribute",
+      "attribute": "years_until_hypertension_onset",
+      "direct_transition": "Check Result",
+      "distribution": {
+        "kind": "GAUSSIAN",
+        "round": true,
+        "parameters": {
+          "mean": 47,
+          "standardDeviation": 15
+        }
+      }
+    },
+    "All Others Onset Age": {
+      "type": "SetAttribute",
+      "attribute": "years_until_hypertension_onset",
+      "direct_transition": "Check Result",
+      "distribution": {
+        "kind": "GAUSSIAN",
+        "round": true,
+        "parameters": {
+          "mean": 46,
+          "standardDeviation": 15
+        }
+      }
+    },
+    "Unlikely Onset": {
+      "type": "SetAttribute",
+      "attribute": "years_until_hypertension_onset",
+      "direct_transition": "Wait for Hypertension Onset",
+      "value": 120,
+      "remarks": [
+        "These patients are not removed from the pool, in case another module (for example, diabetes) activates hypertension."
+      ]
+    },
+    "Check for Hypertension Override": {
+      "type": "Simple",
+      "conditional_transition": [
+        {
+          "transition": "Onset_Hypertension",
+          "condition": {
+            "condition_type": "Or",
             "conditions": [
               {
                 "condition_type": "Attribute",
@@ -82275,34 +83604,137 @@ export default {"acute_myeloid_leukemia":{
               },
               {
                 "condition_type": "Attribute",
-                "attribute": "hypertension_dx",
-                "operator": "is nil"
+                "attribute": "years_until_hypertension_onset",
+                "operator": "<=",
+                "value": 0
               }
             ]
           }
         },
         {
-          "transition": "Wait Until Next Checkup"
+          "transition": "Check for Smoking related Hypertension",
+          "condition": {
+            "condition_type": "Attribute",
+            "attribute": "smoker",
+            "operator": "==",
+            "value": true
+          }
+        },
+        {
+          "transition": "Wait for Hypertension Onset"
+        }
+      ],
+      "remarks": [
+        "Use the risk set above, but also check if some other module may have set hypertension == true"
+      ]
+    },
+    "Check for Smoking related Hypertension": {
+      "type": "Simple",
+      "distributed_transition": [
+        {
+          "transition": "Onset_Hypertension",
+          "distribution": 0.005
+        },
+        {
+          "transition": "Wait for Hypertension Onset",
+          "distribution": 0.995
+        }
+      ],
+      "remarks": [
+        "Various studies have estimated that smokers have between 1.2 and 1.5 higher odds ratio of hypertension than non-smokers. In this model, every year a patient actively smokes, they may experience the onset of hypertension."
+      ]
+    },
+    "Check for Exclusions": {
+      "type": "Simple",
+      "conditional_transition": [
+        {
+          "transition": "Wait for Hypertension Onset",
+          "condition": {
+            "condition_type": "At Least",
+            "minimum": 1,
+            "conditions": [
+              {
+                "condition_type": "Age",
+                "operator": "<=",
+                "quantity": 18,
+                "unit": "years"
+              },
+              {
+                "condition_type": "Attribute",
+                "attribute": "ckd",
+                "operator": ">",
+                "value": 3
+              },
+              {
+                "condition_type": "Attribute",
+                "attribute": "pregnant",
+                "operator": "==",
+                "value": true
+              },
+              {
+                "condition_type": "Attribute",
+                "attribute": "coronary_heart_disease",
+                "operator": "==",
+                "value": true
+              },
+              {
+                "condition_type": "Active Condition",
+                "codes": [
+                  {
+                    "system": "SNOMED-CT",
+                    "code": "22298006",
+                    "display": "Myocardial Infarction"
+                  }
+                ]
+              },
+              {
+                "condition_type": "Active Condition",
+                "codes": [
+                  {
+                    "system": "SNOMED-CT",
+                    "code": "399211009",
+                    "display": "History of myocardial infarction (situation)"
+                  }
+                ]
+              },
+              {
+                "condition_type": "Attribute",
+                "attribute": "chf",
+                "operator": "is not nil"
+              }
+            ]
+          }
+        },
+        {
+          "transition": "Hypertension_Screening_Reason"
         }
       ]
     },
-    "Wait Until Next Checkup": {
-      "type": "EncounterEnd",
-      "direct_transition": "Wellness_Encounter"
+    "Decrement_Years": {
+      "type": "Counter",
+      "attribute": "years_until_hypertension_onset",
+      "action": "decrement",
+      "direct_transition": "Check for Hypertension Override"
     },
-    "Drop Outs": {
+    "Check Result": {
       "type": "Simple",
-      "direct_transition": "Terminal"
-    },
-    "Hypertension_Screening_Reason": {
-      "type": "SetAttribute",
-      "attribute": "hypertension_screening_reason",
-      "direct_transition": "Set_Yearly_Risk",
-      "value_code": {
-        "system": "SNOMED-CT",
-        "code": "171222001",
-        "display": "Hypertension screening (procedure)"
-      }
+      "conditional_transition": [
+        {
+          "transition": "Eventual Hypertension",
+          "condition": {
+            "condition_type": "Attribute",
+            "attribute": "years_until_hypertension_onset",
+            "operator": "<=",
+            "value": 18
+          }
+        },
+        {
+          "transition": "Wait for Hypertension Onset"
+        }
+      ],
+      "remarks": [
+        "Looping back to Eventual_Hypertension will redraw from the years_until_hypertension_onset distribution. In effect this will eliminate a spike in 18 year olds (i.e., all the random sampling of 18 and under would all appear at age 18) and smooth the distribution (and average onset age) appropriately."
+      ]
     }
   },
   "gmf_version": 1
@@ -82733,8 +84165,8 @@ export default {"acute_myeloid_leukemia":{
       "type": "ImagingStudy",
       "procedure_code": {
         "system": "SNOMED-CT",
-        "code": 19589009,
-        "display": "Radiography of mandible (procedure)"
+        "code": "1290789000",
+        "display": "Plain X-ray of mandible (procedure)"
       },
       "series": [
         {
@@ -86064,8 +87496,8 @@ export default {"acute_myeloid_leukemia":{
       "type": "Device",
       "code": {
         "system": "SNOMED-CT",
-        "code": 705406009,
-        "display": "Walker (physical object)"
+        "code": "1255320005",
+        "display": "Wheeled walker (physical object)"
       },
       "direct_transition": "Broken_Bone_Surgery",
       "assign_to_attribute": "injury_dme"
@@ -101013,6 +102445,482 @@ export default {"acute_myeloid_leukemia":{
   "gmf_version": 2
 }
 ,
+"metabolic_syndrome/diabetic_retinopathy_diagnoses":{
+  "name": "diabetic retinopathy diagnoses",
+  "remarks": [],
+  "states": {
+    "Initial": {
+      "type": "Initial",
+      "direct_transition": "DR_Stage_Left_Eye"
+    },
+    "Check_Nonproliferative_Retinopathy": {
+      "type": "Simple",
+      "conditional_transition": [
+        {
+          "condition": {
+            "condition_type": "And",
+            "conditions": [
+              {
+                "condition_type": "Attribute",
+                "attribute": "diabetic_retinopathy_stage",
+                "operator": "<=",
+                "value": 3
+              },
+              {
+                "condition_type": "Not",
+                "condition": {
+                  "condition_type": "Active Condition",
+                  "codes": [
+                    {
+                      "system": "SNOMED-CT",
+                      "code": "1551000119108",
+                      "display": "Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder)"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "transition": "Diagnose_Nonproliferative_Retinopathy"
+        },
+        {
+          "transition": "Check_Proliferative_Retinopathy"
+        }
+      ]
+    },
+    "Diagnose_Nonproliferative_Retinopathy": {
+      "type": "ConditionOnset",
+      "codes": [
+        {
+          "system": "SNOMED-CT",
+          "code": "1551000119108",
+          "display": "Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder)"
+        }
+      ],
+      "direct_transition": "Check_Proliferative_Retinopathy",
+      "assign_to_attribute": "diabetic_retinopathy_condition"
+    },
+    "Check_Proliferative_Retinopathy": {
+      "type": "Simple",
+      "conditional_transition": [
+        {
+          "condition": {
+            "condition_type": "And",
+            "conditions": [
+              {
+                "condition_type": "Attribute",
+                "attribute": "diabetic_retinopathy_stage",
+                "operator": "==",
+                "value": 4
+              },
+              {
+                "condition_type": "Not",
+                "condition": {
+                  "condition_type": "Active Condition",
+                  "codes": [
+                    {
+                      "system": "SNOMED-CT",
+                      "code": "1501000119109",
+                      "display": "Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder)"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "transition": "Diagnose_Proliferative_Retinopathy"
+        },
+        {
+          "transition": "Check_Macular_Edema"
+        }
+      ]
+    },
+    "Diagnose_Proliferative_Retinopathy": {
+      "type": "ConditionOnset",
+      "codes": [
+        {
+          "system": "SNOMED-CT",
+          "code": "1501000119109",
+          "display": "Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder)"
+        }
+      ],
+      "direct_transition": "Check_Macular_Edema",
+      "assign_to_attribute": "diabetic_retinopathy_condition"
+    },
+    "Check_Macular_Edema": {
+      "type": "Simple",
+      "conditional_transition": [
+        {
+          "condition": {
+            "condition_type": "And",
+            "conditions": [
+              {
+                "condition_type": "Attribute",
+                "attribute": "macular_edema",
+                "operator": "==",
+                "value": true
+              },
+              {
+                "condition_type": "Not",
+                "condition": {
+                  "condition_type": "Active Condition",
+                  "codes": [
+                    {
+                      "system": "SNOMED-CT",
+                      "code": "97331000119101",
+                      "display": "Macular edema and retinopathy due to type 2 diabetes mellitus (disorder)"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "transition": "Diagnose_Macular_Edema"
+        },
+        {
+          "transition": "Check_Blindness"
+        }
+      ]
+    },
+    "Diagnose_Macular_Edema": {
+      "type": "ConditionOnset",
+      "codes": [
+        {
+          "system": "SNOMED-CT",
+          "code": "97331000119101",
+          "display": "Macular edema and retinopathy due to type 2 diabetes mellitus (disorder)"
+        }
+      ],
+      "direct_transition": "Check_Blindness",
+      "assign_to_attribute": "macular_edema_condition"
+    },
+    "Check_Blindness": {
+      "type": "Simple",
+      "conditional_transition": [
+        {
+          "condition": {
+            "condition_type": "And",
+            "conditions": [
+              {
+                "condition_type": "Attribute",
+                "attribute": "blindness",
+                "operator": "is not nil"
+              },
+              {
+                "condition_type": "Not",
+                "condition": {
+                  "condition_type": "Active Condition",
+                  "codes": [
+                    {
+                      "system": "SNOMED-CT",
+                      "code": "60951000119105",
+                      "display": "Blindness due to type 2 diabetes mellitus (disorder)"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "transition": "Diagnose_Blindness"
+        },
+        {
+          "transition": "Terminal"
+        }
+      ]
+    },
+    "Diagnose_Blindness": {
+      "type": "ConditionOnset",
+      "codes": [
+        {
+          "system": "SNOMED-CT",
+          "code": "60951000119105",
+          "display": "Blindness due to type 2 diabetes mellitus (disorder)"
+        }
+      ],
+      "direct_transition": "Terminal"
+    },
+    "Terminal": {
+      "type": "Terminal"
+    },
+    "DR_Stage_Left_Eye": {
+      "type": "Observation",
+      "category": "exam",
+      "unit": "",
+      "codes": [
+        {
+          "system": "LOINC",
+          "code": "71490-7",
+          "display": "Left eye Diabetic retinopathy severity level by Ophthalmoscopy"
+        }
+      ],
+      "attribute": "diabetic_retinopathy_stage_code",
+      "direct_transition": "DR_Stage_Right_Eye"
+    },
+    "DR_Stage_Right_Eye": {
+      "type": "Observation",
+      "category": "exam",
+      "unit": "",
+      "codes": [
+        {
+          "system": "LOINC",
+          "code": "71491-5",
+          "display": "Right eye Diabetic retinopathy severity level by Ophthalmoscopy"
+        }
+      ],
+      "attribute": "diabetic_retinopathy_stage_code",
+      "conditional_transition": [
+        {
+          "transition": "Terminal",
+          "condition": {
+            "condition_type": "Attribute",
+            "attribute": "diabetic_retinopathy_stage",
+            "operator": "==",
+            "value": 0
+          }
+        },
+        {
+          "transition": "Check_Nonproliferative_Retinopathy"
+        }
+      ]
+    }
+  },
+  "gmf_version": 2
+}
+,
+"metabolic_syndrome/diabetic_retinopathy_progression":{
+  "name": "Diabetic Retinopathy Progression",
+  "remarks": [],
+  "states": {
+    "Initial": {
+      "type": "Initial",
+      "direct_transition": "Retinopathy_Progression"
+    },
+    "Retinopathy_Progression": {
+      "type": "Simple",
+      "remarks": [
+        "In the USA, studies estimate that 28.5–40.3 % of patients with type 2 diabetes had DR, and 4.4–8.2 % of them had VTDR",
+        "https://www.ncbi.nlm.nih.gov/pubmed/15078674",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4657234/",
+        "https://eandv.biomedcentral.com/articles/10.1186/s40662-015-0026-2",
+        "Currently the %s below do not take into consideration any medications the patient may be taking"
+      ],
+      "complex_transition": [
+        {
+          "condition": {
+            "condition_type": "Attribute",
+            "attribute": "diabetic_retinopathy_stage",
+            "operator": "==",
+            "value": 0
+          },
+          "distributions": [
+            {
+              "distribution": 0.998,
+              "transition": "Terminal"
+            },
+            {
+              "distribution": 0.002,
+              "transition": "Set_Mild_Eye_Damage"
+            }
+          ],
+          "remarks": [
+            "Prevalence of DR = ~40%, we assume an estimated lifespan of ~20 yrs after diagnosis",
+            ".2%/month  over 20 yrs, 1- (.998 ^ (12*20)) = .38 "
+          ]
+        },
+        {
+          "condition": {
+            "condition_type": "Attribute",
+            "attribute": "diabetic_retinopathy_stage",
+            "operator": "==",
+            "value": 1
+          },
+          "distributions": [
+            {
+              "distribution": 0.9915,
+              "transition": "Set_Mild_Eye_Damage"
+            },
+            {
+              "distribution": 0.0085,
+              "transition": "Set_Moderate_Eye_Damage"
+            }
+          ],
+          "remarks": [
+            "Roughly 10% chance of DR progression per year == 0.85% chance per month",
+            "https://eandv.biomedcentral.com/articles/10.1186/s40662-015-0026-2 (Table 3)"
+          ]
+        },
+        {
+          "condition": {
+            "condition_type": "Attribute",
+            "attribute": "diabetic_retinopathy_stage",
+            "operator": "==",
+            "value": 2
+          },
+          "distributions": [
+            {
+              "distribution": 0.9975,
+              "transition": "Set_Moderate_Eye_Damage"
+            },
+            {
+              "distribution": 0.0025,
+              "transition": "Set_Severe_Eye_Damage"
+            }
+          ],
+          "remarks": [
+            "Roughly 3% progression from NPDR to PDR per year == .25% per month",
+            "https://eandv.biomedcentral.com/articles/10.1186/s40662-015-0026-2 (Table 3 again)"
+          ]
+        },
+        {
+          "condition": {
+            "condition_type": "Attribute",
+            "attribute": "diabetic_retinopathy_stage",
+            "operator": "==",
+            "value": 3
+          },
+          "distributions": [
+            {
+              "distribution": 0.9975,
+              "transition": "Set_Severe_Eye_Damage"
+            },
+            {
+              "transition": "Set_HighRisk_Eye_Damage",
+              "distribution": 0.0025
+            }
+          ]
+        },
+        {
+          "condition": {
+            "condition_type": "Attribute",
+            "attribute": "diabetic_retinopathy_stage",
+            "operator": "==",
+            "value": 4
+          },
+          "distributions": [],
+          "transition": "Set_HighRisk_Eye_Damage"
+        }
+      ]
+    },
+    "Set_Mild_Eye_Damage": {
+      "type": "SetAttribute",
+      "attribute": "diabetic_retinopathy_stage",
+      "value": 1,
+      "direct_transition": "Mild_Eye_Damage_Symptom"
+    },
+    "Mild_Eye_Damage_Symptom": {
+      "type": "Symptom",
+      "symptom": "Blurred Vision",
+      "range": {
+        "low": 1,
+        "high": 60
+      },
+      "direct_transition": "Terminal"
+    },
+    "Set_Moderate_Eye_Damage": {
+      "type": "SetAttribute",
+      "attribute": "diabetic_retinopathy_stage",
+      "value": 2,
+      "direct_transition": "Moderate_Eye_Damage_Symptom"
+    },
+    "Moderate_Eye_Damage_Symptom": {
+      "type": "Symptom",
+      "symptom": "Blurred Vision",
+      "range": {
+        "low": 20,
+        "high": 100
+      },
+      "direct_transition": "Chance_of_Macular_Edema"
+    },
+    "Set_Severe_Eye_Damage": {
+      "type": "SetAttribute",
+      "attribute": "diabetic_retinopathy_stage",
+      "value": 3,
+      "direct_transition": "Severe_Eye_Damage_Symptom"
+    },
+    "Severe_Eye_Damage_Symptom": {
+      "type": "Symptom",
+      "symptom": "Blurred Vision",
+      "range": {
+        "low": 50,
+        "high": 100
+      },
+      "direct_transition": "Chance_of_Macular_Edema"
+    },
+    "Chance_of_Macular_Edema": {
+      "type": "Simple",
+      "remarks": [
+        "Incidence of DME is very low. Very rough estimate == ~1% per year or less.",
+        "1% / yr = .08% / month ; bumped up slightly per experimentation",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4657234/table/Tab5/"
+      ],
+      "distributed_transition": [
+        {
+          "distribution": 0.001,
+          "transition": "Set_Macular_Edema"
+        },
+        {
+          "distribution": 0.999,
+          "transition": "Chance_of_Blindness"
+        }
+      ]
+    },
+    "Set_Macular_Edema": {
+      "type": "SetAttribute",
+      "attribute": "macular_edema",
+      "value": true,
+      "direct_transition": "Chance_of_Blindness"
+    },
+    "Chance_of_Blindness": {
+      "type": "Simple",
+      "remarks": [
+        "estimated prevalence of blindness is ~1% in MA; among diabetics we estimate 3%",
+        "3% / 30 yrs = ~ 0.01 % / month",
+        "http://www.idf.org/sites/default/files/IDF%2520Toolkit_Backgrounder_FINAL.pdf"
+      ],
+      "distributed_transition": [
+        {
+          "distribution": 0.0001,
+          "transition": "Set_Blindness"
+        },
+        {
+          "distribution": 0.9999,
+          "transition": "Terminal"
+        }
+      ]
+    },
+    "Set_Blindness": {
+      "type": "SetAttribute",
+      "attribute": "blindness",
+      "value": true,
+      "direct_transition": "Terminal"
+    },
+    "Set_HighRisk_Eye_Damage": {
+      "type": "SetAttribute",
+      "attribute": "diabetic_retinopathy_stage",
+      "value": 4,
+      "direct_transition": "HighRisk_Eye_Damage_Symptom"
+    },
+    "HighRisk_Eye_Damage_Symptom": {
+      "type": "Symptom",
+      "symptom": "Blurred Vision",
+      "cause": "",
+      "probability": 1,
+      "distribution": {
+        "kind": "UNIFORM",
+        "parameters": {
+          "high": 20,
+          "low": 10
+        }
+      },
+      "direct_transition": "Chance_of_Macular_Edema"
+    },
+    "Terminal": {
+      "type": "Terminal"
+    }
+  },
+  "gmf_version": 2
+}
+,
 "metabolic_syndrome/dme_supplies":{
   "name": "dme_supplies",
   "remarks": [
@@ -101125,415 +103033,6 @@ export default {"acute_myeloid_leukemia":{
     }
   },
   "gmf_version": 2
-}
-,
-"metabolic_syndrome/eye_conditions":{
-  "name": "eye conditions",
-  "remarks": [],
-  "states": {
-    "Initial": {
-      "type": "Initial",
-      "direct_transition": "Check_Retinopathy"
-    },
-    "Check_Retinopathy": {
-      "type": "Simple",
-      "conditional_transition": [
-        {
-          "condition": {
-            "condition_type": "And",
-            "conditions": [
-              {
-                "condition_type": "Attribute",
-                "attribute": "retinopathy",
-                "operator": "is not nil"
-              },
-              {
-                "condition_type": "Not",
-                "condition": {
-                  "condition_type": "Active Condition",
-                  "codes": [
-                    {
-                      "system": "SNOMED-CT",
-                      "code": "422034002",
-                      "display": "Retinopathy due to type 2 diabetes mellitus (disorder)"
-                    }
-                  ]
-                }
-              }
-            ]
-          },
-          "transition": "Diagnose_Retinopathy"
-        },
-        {
-          "condition": {
-            "condition_type": "And",
-            "conditions": [
-              {
-                "condition_type": "Attribute",
-                "attribute": "retinopathy",
-                "operator": "is nil"
-              },
-              {
-                "condition_type": "Active Condition",
-                "codes": [
-                  {
-                    "system": "SNOMED-CT",
-                    "code": "422034002",
-                    "display": "Retinopathy due to type 2 diabetes mellitus (disorder)"
-                  }
-                ]
-              }
-            ]
-          },
-          "transition": "End_Retinopathy"
-        },
-        {
-          "transition": "Check_Nonproliferative_Retinopathy"
-        }
-      ]
-    },
-    "Diagnose_Retinopathy": {
-      "type": "ConditionOnset",
-      "codes": [
-        {
-          "system": "SNOMED-CT",
-          "code": "422034002",
-          "display": "Retinopathy due to type 2 diabetes mellitus (disorder)"
-        }
-      ],
-      "direct_transition": "Check_Nonproliferative_Retinopathy"
-    },
-    "End_Retinopathy": {
-      "type": "ConditionEnd",
-      "codes": [
-        {
-          "system": "SNOMED-CT",
-          "code": "422034002",
-          "display": "Retinopathy due to type 2 diabetes mellitus (disorder)"
-        }
-      ],
-      "direct_transition": "Check_Nonproliferative_Retinopathy"
-    },
-    "Check_Nonproliferative_Retinopathy": {
-      "type": "Simple",
-      "conditional_transition": [
-        {
-          "condition": {
-            "condition_type": "And",
-            "conditions": [
-              {
-                "condition_type": "Attribute",
-                "attribute": "nonproliferative_retinopathy",
-                "operator": "is not nil"
-              },
-              {
-                "condition_type": "Not",
-                "condition": {
-                  "condition_type": "Active Condition",
-                  "codes": [
-                    {
-                      "system": "SNOMED-CT",
-                      "code": "1551000119108",
-                      "display": "Nonproliferative retinopathy due to type 2 diabetes mellitus (disorder)"
-                    }
-                  ]
-                }
-              }
-            ]
-          },
-          "transition": "Diagnose_Nonproliferative_Retinopathy"
-        },
-        {
-          "condition": {
-            "condition_type": "And",
-            "conditions": [
-              {
-                "condition_type": "Attribute",
-                "attribute": "nonproliferative_retinopathy",
-                "operator": "is nil"
-              },
-              {
-                "condition_type": "Active Condition",
-                "codes": [
-                  {
-                    "system": "SNOMED-CT",
-                    "code": "1551000119108",
-                    "display": "Nonproliferative retinopathy due to type 2 diabetes mellitus (disorder)"
-                  }
-                ]
-              }
-            ]
-          },
-          "transition": "End_Nonproliferative_Retinopathy"
-        },
-        {
-          "transition": "Check_Proliferative_Retinopathy"
-        }
-      ]
-    },
-    "Diagnose_Nonproliferative_Retinopathy": {
-      "type": "ConditionOnset",
-      "codes": [
-        {
-          "system": "SNOMED-CT",
-          "code": "1551000119108",
-          "display": "Nonproliferative retinopathy due to type 2 diabetes mellitus (disorder)"
-        }
-      ],
-      "direct_transition": "Check_Proliferative_Retinopathy"
-    },
-    "End_Nonproliferative_Retinopathy": {
-      "type": "ConditionEnd",
-      "codes": [
-        {
-          "system": "SNOMED-CT",
-          "code": "1551000119108",
-          "display": "Nonproliferative retinopathy due to type 2 diabetes mellitus (disorder)"
-        }
-      ],
-      "direct_transition": "Check_Proliferative_Retinopathy"
-    },
-    "Check_Proliferative_Retinopathy": {
-      "type": "Simple",
-      "conditional_transition": [
-        {
-          "condition": {
-            "condition_type": "And",
-            "conditions": [
-              {
-                "condition_type": "Attribute",
-                "attribute": "proliferative_retinopathy",
-                "operator": "is not nil"
-              },
-              {
-                "condition_type": "Not",
-                "condition": {
-                  "condition_type": "Active Condition",
-                  "codes": [
-                    {
-                      "system": "SNOMED-CT",
-                      "code": "1501000119109",
-                      "display": "Proliferative retinopathy due to type 2 diabetes mellitus (disorder)"
-                    }
-                  ]
-                }
-              }
-            ]
-          },
-          "transition": "Diagnose_Proliferative_Retinopathy"
-        },
-        {
-          "condition": {
-            "condition_type": "And",
-            "conditions": [
-              {
-                "condition_type": "Attribute",
-                "attribute": "proliferative_retinopathy",
-                "operator": "is nil"
-              },
-              {
-                "condition_type": "Active Condition",
-                "codes": [
-                  {
-                    "system": "SNOMED-CT",
-                    "code": "1501000119109",
-                    "display": "Proliferative retinopathy due to type 2 diabetes mellitus (disorder)"
-                  }
-                ]
-              }
-            ]
-          },
-          "transition": "End_Proliferative_Retinopathy"
-        },
-        {
-          "transition": "Check_Macular_Edema"
-        }
-      ]
-    },
-    "Diagnose_Proliferative_Retinopathy": {
-      "type": "ConditionOnset",
-      "codes": [
-        {
-          "system": "SNOMED-CT",
-          "code": "1501000119109",
-          "display": "Proliferative retinopathy due to type 2 diabetes mellitus (disorder)"
-        }
-      ],
-      "direct_transition": "Check_Macular_Edema"
-    },
-    "End_Proliferative_Retinopathy": {
-      "type": "ConditionEnd",
-      "codes": [
-        {
-          "system": "SNOMED-CT",
-          "code": "1501000119109",
-          "display": "Proliferative retinopathy due to type 2 diabetes mellitus (disorder)"
-        }
-      ],
-      "direct_transition": "Check_Macular_Edema"
-    },
-    "Check_Macular_Edema": {
-      "type": "Simple",
-      "conditional_transition": [
-        {
-          "condition": {
-            "condition_type": "And",
-            "conditions": [
-              {
-                "condition_type": "Attribute",
-                "attribute": "macular_edema",
-                "operator": "is not nil"
-              },
-              {
-                "condition_type": "Not",
-                "condition": {
-                  "condition_type": "Active Condition",
-                  "codes": [
-                    {
-                      "system": "SNOMED-CT",
-                      "code": "97331000119101",
-                      "display": "Macular edema and retinopathy due to type 2 diabetes mellitus (disorder)"
-                    }
-                  ]
-                }
-              }
-            ]
-          },
-          "transition": "Diagnose_Macular_Edema"
-        },
-        {
-          "condition": {
-            "condition_type": "And",
-            "conditions": [
-              {
-                "condition_type": "Attribute",
-                "attribute": "macular_edema",
-                "operator": "is nil"
-              },
-              {
-                "condition_type": "Active Condition",
-                "codes": [
-                  {
-                    "system": "SNOMED-CT",
-                    "code": "97331000119101",
-                    "display": "Macular edema and retinopathy due to type 2 diabetes mellitus (disorder)"
-                  }
-                ]
-              }
-            ]
-          },
-          "transition": "End_Macular_Edema"
-        },
-        {
-          "transition": "Check_Blindness"
-        }
-      ]
-    },
-    "Diagnose_Macular_Edema": {
-      "type": "ConditionOnset",
-      "codes": [
-        {
-          "system": "SNOMED-CT",
-          "code": "97331000119101",
-          "display": "Macular edema and retinopathy due to type 2 diabetes mellitus (disorder)"
-        }
-      ],
-      "direct_transition": "Check_Blindness"
-    },
-    "End_Macular_Edema": {
-      "type": "ConditionEnd",
-      "codes": [
-        {
-          "system": "SNOMED-CT",
-          "code": "97331000119101",
-          "display": "Macular edema and retinopathy due to type 2 diabetes mellitus (disorder)"
-        }
-      ],
-      "direct_transition": "Check_Blindness"
-    },
-    "Check_Blindness": {
-      "type": "Simple",
-      "conditional_transition": [
-        {
-          "condition": {
-            "condition_type": "And",
-            "conditions": [
-              {
-                "condition_type": "Attribute",
-                "attribute": "blindness",
-                "operator": "is not nil"
-              },
-              {
-                "condition_type": "Not",
-                "condition": {
-                  "condition_type": "Active Condition",
-                  "codes": [
-                    {
-                      "system": "SNOMED-CT",
-                      "code": "60951000119105",
-                      "display": "Blindness due to type 2 diabetes mellitus (disorder)"
-                    }
-                  ]
-                }
-              }
-            ]
-          },
-          "transition": "Diagnose_Blindness"
-        },
-        {
-          "condition": {
-            "condition_type": "And",
-            "conditions": [
-              {
-                "condition_type": "Attribute",
-                "attribute": "blindness",
-                "operator": "is nil"
-              },
-              {
-                "condition_type": "Active Condition",
-                "codes": [
-                  {
-                    "system": "SNOMED-CT",
-                    "code": "60951000119105",
-                    "display": "Blindness due to type 2 diabetes mellitus (disorder)"
-                  }
-                ]
-              }
-            ]
-          },
-          "transition": "End_Blindness"
-        },
-        {
-          "transition": "Terminal"
-        }
-      ]
-    },
-    "Diagnose_Blindness": {
-      "type": "ConditionOnset",
-      "codes": [
-        {
-          "system": "SNOMED-CT",
-          "code": "60951000119105",
-          "display": "Blindness due to type 2 diabetes mellitus (disorder)"
-        }
-      ],
-      "direct_transition": "Terminal"
-    },
-    "End_Blindness": {
-      "type": "ConditionEnd",
-      "codes": [
-        {
-          "system": "SNOMED-CT",
-          "code": "60951000119105",
-          "display": "Blindness due to type 2 diabetes mellitus (disorder)"
-        }
-      ],
-      "direct_transition": "Terminal"
-    },
-    "Terminal": {
-      "type": "Terminal"
-    }
-  }
 }
 ,
 "metabolic_syndrome/kidney_conditions":{
@@ -104537,7 +106036,7 @@ export default {"acute_myeloid_leukemia":{
               "distribution": 0.084
             },
             {
-              "transition": "Check_Eye_Conditions",
+              "transition": "Check_Neuropathy",
               "distribution": 0.916
             }
           ]
@@ -104555,7 +106054,7 @@ export default {"acute_myeloid_leukemia":{
               "distribution": 0.121
             },
             {
-              "transition": "Check_Eye_Conditions",
+              "transition": "Check_Neuropathy",
               "distribution": 0.879
             }
           ]
@@ -104567,7 +106066,7 @@ export default {"acute_myeloid_leukemia":{
               "distribution": 0.174
             },
             {
-              "transition": "Check_Eye_Conditions",
+              "transition": "Check_Neuropathy",
               "distribution": 0.826
             }
           ],
@@ -104591,7 +106090,7 @@ export default {"acute_myeloid_leukemia":{
               "distribution": 0.503
             },
             {
-              "transition": "Check_Eye_Conditions",
+              "transition": "Check_Neuropathy",
               "distribution": 0.497
             }
           ]
@@ -104605,11 +106104,6 @@ export default {"acute_myeloid_leukemia":{
       "type": "CallSubmodule",
       "submodule": "metabolic_syndrome/kidney_conditions",
       "direct_transition": "Check_Diabetes"
-    },
-    "Check_Eye_Conditions": {
-      "type": "CallSubmodule",
-      "submodule": "metabolic_syndrome/eye_conditions",
-      "direct_transition": "Check_Neuropathy"
     },
     "Check_Neuropathy": {
       "type": "Simple",
@@ -104773,7 +106267,7 @@ export default {"acute_myeloid_leukemia":{
     "Anemia_Submodule": {
       "type": "CallSubmodule",
       "submodule": "anemia/anemia_sub",
-      "direct_transition": "Check_Eye_Conditions"
+      "direct_transition": "Check_Neuropathy"
     },
     "Check_Anemia_Exist": {
       "type": "Simple",
@@ -104787,7 +106281,7 @@ export default {"acute_myeloid_leukemia":{
           }
         },
         {
-          "transition": "Check_Eye_Conditions"
+          "transition": "Check_Neuropathy"
         }
       ],
       "remarks": [
@@ -104838,8 +106332,14 @@ export default {"acute_myeloid_leukemia":{
     },
     "Initial_Eye_Health": {
       "type": "SetAttribute",
-      "attribute": "diabetic_eye_damage",
+      "attribute": "diabetic_retinopathy_stage",
       "value": 0,
+      "direct_transition": "Initial_Macular_Edema"
+    },
+    "Initial_Macular_Edema": {
+      "type": "SetAttribute",
+      "attribute": "macular_edema",
+      "value": false,
       "direct_transition": "Initial_Nerve_Health"
     },
     "Initial_Nerve_Health": {
@@ -104885,7 +106385,7 @@ export default {"acute_myeloid_leukemia":{
     "Eventual_Diabetes": {
       "type": "SetAttribute",
       "attribute": "time_until_diabetes_onset",
-      "direct_transition": "Already_age_18",
+      "direct_transition": "Check Onset",
       "remarks": [
         "we assume that diabetes and prediabetes generally onset between the ages of 18-55",
         "this tracks a little lower so that we can diagnose prediabetes early and then diabetes later",
@@ -104973,202 +106473,8 @@ export default {"acute_myeloid_leukemia":{
       "direct_transition": "Retinopathy_Progression"
     },
     "Retinopathy_Progression": {
-      "type": "Simple",
-      "remarks": [
-        "In the USA, studies estimate that 28.5–40.3 % of patients with type 2 diabetes had DR, and 4.4–8.2 % of them had VTDR",
-        "https://www.ncbi.nlm.nih.gov/pubmed/15078674",
-        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4657234/",
-        "https://eandv.biomedcentral.com/articles/10.1186/s40662-015-0026-2",
-        "Currently the %s below do not take into consideration any medications the patient may be taking"
-      ],
-      "complex_transition": [
-        {
-          "condition": {
-            "condition_type": "Attribute",
-            "attribute": "diabetic_eye_damage",
-            "operator": "==",
-            "value": 0
-          },
-          "distributions": [
-            {
-              "distribution": 0.998,
-              "transition": "Neuropathy_Progression"
-            },
-            {
-              "distribution": 0.002,
-              "transition": "Set_Mild_Eye_Damage"
-            }
-          ],
-          "remarks": [
-            "Prevalence of DR = ~40%, we assume an estimated lifespan of ~20 yrs after diagnosis",
-            ".2%/month  over 20 yrs, 1- (.998 ^ (12*20)) = .38 "
-          ]
-        },
-        {
-          "condition": {
-            "condition_type": "Attribute",
-            "attribute": "diabetic_eye_damage",
-            "operator": "==",
-            "value": 1
-          },
-          "distributions": [
-            {
-              "distribution": 0.9915,
-              "transition": "Set_Mild_Eye_Damage"
-            },
-            {
-              "distribution": 0.0085,
-              "transition": "Set_Moderate_Eye_Damage"
-            }
-          ],
-          "remarks": [
-            "Roughly 10% chance of DR progression per year == 0.85% chance per month",
-            "https://eandv.biomedcentral.com/articles/10.1186/s40662-015-0026-2 (Table 3)"
-          ]
-        },
-        {
-          "condition": {
-            "condition_type": "Attribute",
-            "attribute": "diabetic_eye_damage",
-            "operator": "==",
-            "value": 2
-          },
-          "distributions": [
-            {
-              "distribution": 0.9975,
-              "transition": "Set_Moderate_Eye_Damage"
-            },
-            {
-              "distribution": 0.0025,
-              "transition": "Set_Severe_Eye_Damage"
-            }
-          ],
-          "remarks": [
-            "Roughly 3% progression from NPDR to PDR per year == .25% per month",
-            "https://eandv.biomedcentral.com/articles/10.1186/s40662-015-0026-2 (Table 3 again)"
-          ]
-        },
-        {
-          "condition": {
-            "condition_type": "Attribute",
-            "attribute": "diabetic_eye_damage",
-            "operator": "==",
-            "value": 3
-          },
-          "transition": "Set_Severe_Eye_Damage"
-        }
-      ]
-    },
-    "Set_Mild_Eye_Damage": {
-      "type": "SetAttribute",
-      "attribute": "diabetic_eye_damage",
-      "value": 1,
-      "direct_transition": "Mild_Eye_Damage_Symptom"
-    },
-    "Mild_Eye_Damage_Symptom": {
-      "type": "Symptom",
-      "symptom": "Blurred Vision",
-      "range": {
-        "low": 1,
-        "high": 60
-      },
-      "direct_transition": "Set_Retinopathy"
-    },
-    "Set_Retinopathy": {
-      "type": "SetAttribute",
-      "attribute": "retinopathy",
-      "value": true,
-      "direct_transition": "Neuropathy_Progression"
-    },
-    "Set_Moderate_Eye_Damage": {
-      "type": "SetAttribute",
-      "attribute": "diabetic_eye_damage",
-      "value": 2,
-      "direct_transition": "Moderate_Eye_Damage_Symptom"
-    },
-    "Moderate_Eye_Damage_Symptom": {
-      "type": "Symptom",
-      "symptom": "Blurred Vision",
-      "range": {
-        "low": 20,
-        "high": 100
-      },
-      "direct_transition": "Set_Nonproliferative_Retinopathy"
-    },
-    "Set_Nonproliferative_Retinopathy": {
-      "type": "SetAttribute",
-      "attribute": "nonproliferative_retinopathy",
-      "value": true,
-      "direct_transition": "Chance_of_Macular_Edema"
-    },
-    "Set_Severe_Eye_Damage": {
-      "type": "SetAttribute",
-      "attribute": "diabetic_eye_damage",
-      "value": 3,
-      "direct_transition": "Severe_Eye_Damage_Symptom"
-    },
-    "Severe_Eye_Damage_Symptom": {
-      "type": "Symptom",
-      "symptom": "Blurred Vision",
-      "range": {
-        "low": 50,
-        "high": 100
-      },
-      "direct_transition": "Set_Proliferative_Retinopathy"
-    },
-    "Set_Proliferative_Retinopathy": {
-      "type": "SetAttribute",
-      "attribute": "proliferative_retinopathy",
-      "value": true,
-      "direct_transition": "Chance_of_Macular_Edema"
-    },
-    "Chance_of_Macular_Edema": {
-      "type": "Simple",
-      "remarks": [
-        "Incidence of DME is very low. Very rough estimate == ~1% per year.",
-        "only around 20% of patients will hit this state, so we scale up to about 5% per year among those patients",
-        "5% / yr = .4% / month",
-        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4657234/table/Tab5/"
-      ],
-      "distributed_transition": [
-        {
-          "distribution": 0.004,
-          "transition": "Set_Macular_Edema"
-        },
-        {
-          "distribution": 0.996,
-          "transition": "Chance_of_Blindness"
-        }
-      ]
-    },
-    "Set_Macular_Edema": {
-      "type": "SetAttribute",
-      "attribute": "macular_edema",
-      "value": true,
-      "direct_transition": "Chance_of_Blindness"
-    },
-    "Chance_of_Blindness": {
-      "type": "Simple",
-      "remarks": [
-        "estimated prevalence of blindness is ~1% in MA; among diabetics we estimate 3%",
-        "3% / 30 yrs = ~ 0.01 % / month",
-        "http://www.idf.org/sites/default/files/IDF%2520Toolkit_Backgrounder_FINAL.pdf"
-      ],
-      "distributed_transition": [
-        {
-          "distribution": 0.0001,
-          "transition": "Set_Blindness"
-        },
-        {
-          "distribution": 0.9999,
-          "transition": "Neuropathy_Progression"
-        }
-      ]
-    },
-    "Set_Blindness": {
-      "type": "SetAttribute",
-      "attribute": "blindness",
-      "value": true,
+      "type": "CallSubmodule",
+      "submodule": "metabolic_syndrome/diabetic_retinopathy_progression",
       "direct_transition": "Neuropathy_Progression"
     },
     "Neuropathy_Progression": {
@@ -105555,6 +106861,26 @@ export default {"acute_myeloid_leukemia":{
         {
           "transition": "Countdown to Diabetes"
         }
+      ]
+    },
+    "Check Onset": {
+      "type": "Simple",
+      "conditional_transition": [
+        {
+          "transition": "Eventual_Diabetes",
+          "condition": {
+            "condition_type": "Attribute",
+            "attribute": "time_until_diabetes_onset",
+            "operator": "<=",
+            "value": 18
+          }
+        },
+        {
+          "transition": "Already_age_18"
+        }
+      ],
+      "remarks": [
+        "Looping back to Eventual_Diabetes will redraw from the time_until_diabetes_onset distribution. In effect this will eliminate a spike in 18 year olds (i.e., all the random sampling of 18 and under would all appear at age 18) and smooth the distribution appropriately."
       ]
     }
   },
@@ -106068,8 +107394,8 @@ export default {"acute_myeloid_leukemia":{
       "codes": [
         {
           "system": "SNOMED-CT",
-          "code": 182813001,
-          "display": "Emergency treatment (procedure)"
+          "code": "50849002",
+          "display": "Emergency room admission (procedure)"
         }
       ],
       "direct_transition": "Pain_Vital_3"
@@ -106153,8 +107479,8 @@ export default {"acute_myeloid_leukemia":{
       "codes": [
         {
           "system": "SNOMED-CT",
-          "code": 182813001,
-          "display": "Emergency treatment (procedure)"
+          "code": "50849002",
+          "display": "Emergency room admission (procedure)"
         }
       ],
       "direct_transition": "Pain_Vital"
@@ -106508,8 +107834,8 @@ export default {"acute_myeloid_leukemia":{
       "codes": [
         {
           "system": "SNOMED-CT",
-          "code": "55680006",
-          "display": "Drug overdose"
+          "code": "1149222004",
+          "display": "Overdose (disorder)"
         }
       ],
       "direct_transition": "Directed_Use_Overdose_Encounter"
@@ -106546,8 +107872,8 @@ export default {"acute_myeloid_leukemia":{
       "codes": [
         {
           "system": "SNOMED-CT",
-          "code": "55680006",
-          "display": "Drug overdose"
+          "code": "1149222004",
+          "display": "Overdose (disorder)"
         }
       ],
       "direct_transition": "Misuse_Overdose_Encounter"
@@ -106584,8 +107910,8 @@ export default {"acute_myeloid_leukemia":{
       "codes": [
         {
           "system": "SNOMED-CT",
-          "code": "55680006",
-          "display": "Drug overdose"
+          "code": "1149222004",
+          "display": "Overdose (disorder)"
         }
       ],
       "direct_transition": "Addiction_Overdose_Encounter"
@@ -106662,8 +107988,8 @@ export default {"acute_myeloid_leukemia":{
       "codes": [
         {
           "system": "SNOMED-CT",
-          "code": "55680006",
-          "display": "Drug overdose"
+          "code": "1149222004",
+          "display": "Overdose (disorder)"
         }
       ],
       "direct_transition": "Terminal"
@@ -107306,8 +108632,8 @@ export default {"acute_myeloid_leukemia":{
       "type": "Device",
       "code": {
         "system": "SNOMED-CT",
-        "code": 705406009,
-        "display": "Walker (physical object)"
+        "code": "1255320005",
+        "display": "Wheeled walker (physical object)"
       },
       "assign_to_attribute": "osteoarthritis_dme",
       "direct_transition": "Finish DME"
@@ -108092,8 +109418,8 @@ export default {"acute_myeloid_leukemia":{
       "codes": [
         {
           "system": "SNOMED-CT",
-          "code": "167271000",
-          "display": "Urine protein test"
+          "code": "60218003",
+          "display": "Urinalysis, protein, qualitative (procedure)"
         }
       ],
       "direct_transition": "Physical_Exam"
@@ -109202,8 +110528,8 @@ export default {"acute_myeloid_leukemia":{
       "codes": [
         {
           "system": "SNOMED-CT",
-          "code": "66348005",
-          "display": "Childbirth"
+          "code": "386216000",
+          "display": "Human parturition, function (observable entity)"
         }
       ],
       "direct_transition": "Normal_Pregnancy_Completion"
@@ -111843,8 +113169,8 @@ export default {"acute_myeloid_leukemia":{
       "codes": [
         {
           "system": "SNOMED-CT",
-          "code": 55680006,
-          "display": "Drug overdose (disorder)"
+          "code": "1149222004",
+          "display": "Overdose (disorder)"
         }
       ]
     },
@@ -112284,8 +113610,8 @@ export default {"acute_myeloid_leukemia":{
       "codes": [
         {
           "system": "SNOMED-CT",
-          "code": 55680006,
-          "display": "Drug overdose (disorder)"
+          "code": "1149222004",
+          "display": "Overdose (disorder)"
         }
       ],
       "direct_transition": "ED_Visit"
@@ -118841,8 +120167,8 @@ export default {"acute_myeloid_leukemia":{
       "codes": [
         {
           "system": "SNOMED-CT",
-          "code": 399912005,
-          "display": "Pressure ulcer (disorder)"
+          "code": "1163220007",
+          "display": "Pressure injury stage II (disorder)"
         }
       ],
       "direct_transition": "End_SB_Visit_Under_Age_5"
@@ -118853,8 +120179,8 @@ export default {"acute_myeloid_leukemia":{
       "codes": [
         {
           "system": "SNOMED-CT",
-          "code": 399912005,
-          "display": "Pressure ulcer (disorder)"
+          "code": "1163220007",
+          "display": "Pressure injury stage II (disorder)"
         }
       ],
       "direct_transition": "End_SB_Visit_Under_Age_5"
@@ -118886,8 +120212,8 @@ export default {"acute_myeloid_leukemia":{
       "codes": [
         {
           "system": "SNOMED-CT",
-          "code": 399912005,
-          "display": "Pressure ulcer (disorder)"
+          "code": "1163220007",
+          "display": "Pressure injury stage II (disorder)"
         }
       ],
       "direct_transition": "End_SB_Visit_After_Age_5"
@@ -118898,8 +120224,8 @@ export default {"acute_myeloid_leukemia":{
       "codes": [
         {
           "system": "SNOMED-CT",
-          "code": 399912005,
-          "display": "Pressure ulcer (disorder)"
+          "code": "1163220007",
+          "display": "Pressure injury stage II (disorder)"
         }
       ],
       "direct_transition": "End_SB_Visit_After_Age_5"
